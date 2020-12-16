@@ -1,5 +1,5 @@
 const colours = ['#2c5aa0', '#5193e5', '#afc6e9', '#faa', '#e75a65'];
-// 0 - safe 1 - likely 2 - lean (pap) 3 - lean (wp) 4 - likely (wp)
+// 0 - safe (pap) 1 - likely (pap) 2 - lean (pap) 3 - lean (wp) 4 - likely (wp)
 const GRCSMC = [
     'BUKITBATOK',
     'BUKITPANJANG',
