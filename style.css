@@ -37,10 +37,10 @@ path:hover {
     padding-left: 0.75em;  padding-right: 0.75em;
     padding-bottom:0em ;
       margin: 0px;
-  }
+  }.mobile-only{display:none}
   @media only screen and (max-width: 600px) {
     body{
      
       font-size: 3mm;
-  }#box{border-radius: 3vw;}#seats{font-size:3mm}
+  }#box{border-radius: 3vw;}#seats{font-size:3mm}.mobile-only{display:inline-block}
   }
