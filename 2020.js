@@ -265,7 +265,7 @@ function mouseEnter(id, diff, isOppWin) {
     }
     databox.innerText = `${party} +${Math.abs(Math.round(diff * 10) / 10)}`;
     let seats = document.getElementById('seats');
-    if (seats == 1) {
+    if (obj.seats == 1) {
         seats.innerText = obj.seats + ' seat';
     } else {
         seats.innerText = obj.seats + ' seats';
