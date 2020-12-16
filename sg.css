@@ -1,0 +1,30 @@
+body{
+    background-color: black;
+    color:white;
+    font-family:'Segoe UI Black', sans-serif;
+    font-size:2.5em;
+}
+path:hover {
+    stroke:#fff;
+    stroke-width:6
+
+  }
+  #box{
+    position:absolute;
+    pointer-events: none;
+    background-color: rgba(44, 44, 44, 0.8);
+    border-radius: 25px;
+    border: 1px solid white;
+    
+  }#constituent{
+      padding: 0.5em;
+      margin: 0px;
+  }#data{
+    margin: 0px;
+    padding: 0.5em;
+   padding-top:0em;
+  }
+  #singapore-whole{
+      width:80vw;
+      
+  }
