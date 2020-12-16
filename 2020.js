@@ -1,4 +1,6 @@
 const colours = ['#2c5aa0', '#5193e5', '#afc6e9', '#faa', '#e75a65'];
+
+let box = document.getElementById('box');
 // 0 - safe (pap) 1 - likely (pap) 2 - lean (pap) 3 - lean (wp) 4 - likely (wp)
 const GRCSMC = [
     'BUKITBATOK',
@@ -232,8 +234,14 @@ for (let i = 0; i < GRCSMC.length; i++) {
         mouseEnter(GRCSMC[i], diff, isOppWin, colour);
     };
 }
+let singapore = document.getElementById('singapore-whole');
+singapore.onmouseenter = function () {
+    box.style.display = 'block';
+};
+singapore.onmouseleave = function () {
+    box.style.display = 'none';
+};
 
-let box = document.getElementById('box');
 const onMouseMove = (e) => {
     box.style.left = e.pageX + 'px';
     box.style.top = e.pageY + 'px';
