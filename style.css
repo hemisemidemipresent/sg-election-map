@@ -2,7 +2,7 @@ body{
     background-color: black;
     color:white;
     font-family:'Segoe UI Black', sans-serif;
-    font-size: 7mm;
+    font-size: 1.5vw;
 }
 path:hover {
     stroke:#fff;
