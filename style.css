@@ -17,16 +17,24 @@ path:hover {
     border: 1px solid white;
     
   }#constituent{
-      padding: 0.5em;
       margin: 0px;
+      padding-bottom:0em;
+      padding-top: 0.5em; padding-left: 0.5em; padding-right: 0.5em;
+      
   }#data{
     margin: 0px;
-    padding: 0.5em;
    padding-top:0em;
+   padding-bottom:0em;
+   padding-left: 0.5em;
+   padding-right: 0.5em;
   }
   #singapore-whole{
       width:70vw;
       
   }
-  #button-container{
+  #seats{
+    font-size:4mm;
+    padding-left: 0.75em;  padding-right: 0.75em;
+    padding-bottom:0em ;
+      margin: 0px;
   }

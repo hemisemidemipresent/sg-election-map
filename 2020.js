@@ -107,70 +107,87 @@ const results = {
     BISHANTOAPAYOH: {
         votes: [67.23, 32.77],
         opp: 'SPP',
+        seats: 4,
     },
     CHUACHUKANG: {
         votes: [58.64, 41.36],
         opp: 'PSP',
+        seats: 4,
     },
     HOLLANDBUKITTIMAH: {
         votes: [66.36, 33.64],
         opp: 'SDP',
+        seats: 4,
     },
     JALANBESAR: {
         votes: [65.36, 34.64],
         opp: 'PV',
+        seats: 4,
     },
     MARSLINGYEWTEE: {
         votes: [63.18, 36.82],
         opp: 'SDP',
+        seats: 4,
     },
     SENGKANG: {
         votes: [47.88, 52.12],
         opp: 'WP',
+        seats: 4,
     },
     ALJUNIED: {
         votes: [40.05, 59.95],
         opp: 'WP',
+        seats: 5,
     },
     ANGMOKIO: {
         votes: [71.91, 28.09],
         opp: 'Reform',
+        seats: 5,
     },
     EASTCOAST: {
         votes: [53.39, 46.61],
         opp: 'WP',
+        seats: 5,
     },
     JURONG: {
         votes: [74.61, 25.39],
         opp: 'RDU',
+        seats: 5,
     },
     MARINEPARADE: {
         votes: [57.74, 42.26],
         opp: 'WP',
+        seats: 5,
     },
     NEESOON: {
         votes: [61.9, 23.67],
         opp: 'PSP',
+        seats: 5,
     },
     PASIRRISPUNGGOL: {
         votes: [64.16, 23.67, 12.17],
         opp: 'SDA/PV',
+        seats: 5,
     },
     SEMBAWANG: {
         votes: [67.29, 32.71],
         opp: 'NSP',
+        seats: 5,
     },
     TAMPINES: {
         votes: [66.41, 33.59],
         opp: 'NSP',
+        seats: 5,
     },
     TANJONGPAGAR: {
         votes: [63.1, 36.9],
         opp: 'PSP',
+        seats: 5,
     },
     WESTCOAST: {
         votes: [51.68, 48.32],
         opp: 'PSP',
+        seats: 5,
     },
 };
 
@@ -225,7 +242,7 @@ document
     .getElementById('singapore-whole')
     .addEventListener('mousemove', onMouseMove);
 
-function mouseEnter(id, diff, isOppWin, colour) {
+function mouseEnter(id, diff, isOppWin) {
     document.getElementById('constituent').innerText = getNameFromID(id);
     let databox = document.getElementById('data');
     let obj = results[id];
@@ -239,6 +256,8 @@ function mouseEnter(id, diff, isOppWin, colour) {
         databox.style.color = colours[1];
     }
     databox.innerText = `${party} +${Math.abs(Math.round(diff * 10) / 10)}`;
+    let seats = document.getElementById('seats');
+    seats.innerText = obj.seats + ' seats';
 }
 function getNameFromID(id) {
     const nameIDPairs = [
