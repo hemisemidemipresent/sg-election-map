@@ -2,7 +2,7 @@ body{
     background-color: black;
     color:white;
     font-family:'Segoe UI Black', sans-serif;
-    font-size: 1.5vw;
+    font-size: 7mm;
 }
 path:hover {
     stroke:#fff;
@@ -37,4 +37,10 @@ path:hover {
     padding-left: 0.75em;  padding-right: 0.75em;
     padding-bottom:0em ;
       margin: 0px;
+  }
+  @media only screen and (max-width: 600px) {
+    body{
+     
+      font-size: 3mm;
+  }#box{border-radius: 1vw;}
   }
