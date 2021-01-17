@@ -220,9 +220,9 @@ for (let i = 0; i < GRCSMC.length; i++) {
             colour = colours[3];
         }
     } else {
-        if (diff > 40) {
+        if (diff > 20) {
             colour = colours[0];
-        } else if (diff > 20) {
+        } else if (diff > 10) {
             colour = colours[1];
         } else {
             colour = colours[2];
