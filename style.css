@@ -1,46 +1,46 @@
 body{
-    background-color: black;
-    color:white;
-    font-family:'Segoe UI Black','Open Sans', sans-serif;
-    font-size: 7mm;
+  background-color: black;
+  color:white;
+  font-family:'Segoe UI Black','Open Sans', sans-serif;
+  font-size: 7mm;
 }
 path:hover {
-    stroke:#fff;
-    stroke-width:6
+  stroke:#fff;
+  stroke-width:6
 
-  }
-  #box{
-    position:absolute;
-    pointer-events: none;
-    background-color: rgba(44, 44, 44, 0.8);
-    border-radius: 25px;
-    border: 1px solid white;
-    
-  }#constituent{
-      margin: 0px;
-      padding-bottom:0em;
-      padding-top: 0.5em; padding-left: 0.5em; padding-right: 0.5em;
-      
-  }#data{
+}
+#box{
+  position:absolute;
+  pointer-events: none;
+  background-color: rgba(44, 44, 44, 0.8);
+  border-radius: 25px;
+  border: 1px solid white;
+  
+}#constituent{
     margin: 0px;
-   padding-top:0em;
-   padding-bottom:0em;
-   padding-left: 0.5em;
-   padding-right: 0.5em;
-  }
-  #singapore-whole{
-      width:70vw;
-      
-  }
-  #seats{
-    font-size:4mm;
-    padding-left: 0.75em;  padding-right: 0.75em;
-    padding-bottom:0em ;
-      margin: 0px;
-  }.mobile-only{display:none}
-  @media only screen and (max-width: 600px) {
-    body{
-     
-      font-size: 3mm;
-  }#box{border-radius: 3vw;}#seats{font-size:3mm}.mobile-only{display:inline-block}
-  }
+    padding-bottom:0em;
+    padding-top: 0.5em; padding-left: 0.5em; padding-right: 0.5em;
+    
+}#data{
+  margin: 0px;
+ padding-top:0em;
+ padding-bottom:0em;
+ padding-left: 0.5em;
+ padding-right: 0.5em;
+}
+#singapore-whole{
+    width:70vw;
+    
+}
+#seats{
+  font-size:4mm;
+  padding-left: 0.75em;  padding-right: 0.75em;
+  padding-bottom:0em ;
+    margin: 0px;
+}.mobile-only{display:none}
+@media only screen and (max-width: 600px) {
+  body{
+   
+    font-size: 3mm;
+}#box{border-radius: 3vw;}#seats{font-size:3mm}.mobile-only{display:inline-block}
+}
