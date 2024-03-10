@@ -1,46 +1,75 @@
-body{
+body {
   background-color: black;
-  color:white;
-  font-family:'Segoe UI Black','Open Sans', sans-serif;
-  font-size: 7mm;
+  color: white;
+  font-family: "Segoe UI Black", "Open Sans", sans-serif;
+  /* font-size: 7mm; */
 }
 path:hover {
-  stroke:#fff;
-  stroke-width:6
-
+  stroke: #fff;
+  stroke-width: 6;
 }
-#box{
-  position:absolute;
+#box {
+  position: absolute;
   pointer-events: none;
   background-color: rgba(44, 44, 44, 0.8);
-  border-radius: 25px;
+  border-radius: .5rem;
   border: 1px solid white;
-  
-}#constituent{
-    margin: 0px;
-    padding-bottom:0em;
-    padding-top: 0.5em; padding-left: 0.5em; padding-right: 0.5em;
-    
-}#data{
+  padding: .5rem;
+}
+#constituent {
   margin: 0px;
- padding-top:0em;
- padding-bottom:0em;
- padding-left: 0.5em;
- padding-right: 0.5em;
+  padding-top: 0em;
+  padding-right: 0.25em;
+  padding-bottom: 0em;
+  padding-left: 0.25em;
 }
-#singapore-whole{
-    width:70vw;
-    
+#data {
+  margin: 0px;
+  padding-top: 0em;
+  padding-right: 0.25em;
+  padding-bottom: 0em;
+  padding-left: 0.25em;
 }
-#seats{
-  font-size:4mm;
-  padding-left: 0.75em;  padding-right: 0.75em;
-  padding-bottom:0em ;
-    margin: 0px;
-}.mobile-only{display:none}
+#singapore-whole {
+  width: 70vw;
+}
+#seats {
+  margin: 0px;
+  padding-top: 0em;
+  padding-right: 0.25em;
+  padding-bottom: 0em;
+  padding-left: 0.25em;
+}
+.mobile-only {
+  display: none;
+}
 @media only screen and (max-width: 600px) {
-  body{
-   
+  body {
     font-size: 3mm;
-}#box{border-radius: 3vw;}#seats{font-size:3mm}.mobile-only{display:inline-block}
+  }
+  #box {
+    border-radius: 3vw;
+  }
+  #seats {
+    font-size: 3mm;
+  }
+  .mobile-only {
+    display: inline-block;
+  }
+}
+p{
+  font-size:1.2rem;
+}
+.voteshare {
+  margin-top: 0em;
+  margin-right: 0.25em;
+  margin-bottom: 0em;
+  margin-left: 0.25em;
+  width: 10rem;
+  
+}
+.votesharepercent {
+  font-family: "Segoe UI Semibold", sans-serif;
+  margin: 0em;
+  padding-left: 0.1em;
 }
