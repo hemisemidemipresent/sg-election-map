@@ -1,0 +1,33 @@
+body {
+  background-color: black;
+  color: white;
+  font-family: "Segoe UI Black", "Open Sans", sans-serif;
+  /* font-size: 7mm; */
+}
+
+
+iframe {
+  width: 70vw;
+  /* height: 70vh; */
+}
+
+.mobile-only {
+  display: none;
+}
+@media only screen and (max-width: 600px) {
+  body {
+    font-size: 3mm;
+  }
+  #box {
+    border-radius: 3vw;
+  }
+  #seats {
+    font-size: 3mm;
+  }
+  .mobile-only {
+    display: inline-block;
+  }
+}
+p{
+  font-size:1.2rem;
+}

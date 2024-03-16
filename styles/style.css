@@ -4,17 +4,23 @@ body {
   font-family: "Segoe UI Black", "Open Sans", sans-serif;
   /* font-size: 7mm; */
 }
+
 path:hover {
-  stroke: #fff;
-  stroke-width: 6;
+  stroke: #fff !important;
+  stroke-width: 6 !important;
 }
+#singapore-whole {
+  width: 100vw;
+}
+
 #box {
+  display: none;
   position: absolute;
   pointer-events: none;
   background-color: rgba(44, 44, 44, 0.8);
-  border-radius: .5rem;
+  border-radius: 0.5rem;
   border: 1px solid white;
-  padding: .5rem;
+  padding: 0.5rem;
 }
 #constituent {
   margin: 0px;
@@ -30,9 +36,7 @@ path:hover {
   padding-bottom: 0em;
   padding-left: 0.25em;
 }
-#singapore-whole {
-  width: 70vw;
-}
+
 #seats {
   margin: 0px;
   padding-top: 0em;
@@ -40,33 +44,17 @@ path:hover {
   padding-bottom: 0em;
   padding-left: 0.25em;
 }
-.mobile-only {
-  display: none;
+
+p {
+  font-size: 1.2rem;
 }
-@media only screen and (max-width: 600px) {
-  body {
-    font-size: 3mm;
-  }
-  #box {
-    border-radius: 3vw;
-  }
-  #seats {
-    font-size: 3mm;
-  }
-  .mobile-only {
-    display: inline-block;
-  }
-}
-p{
-  font-size:1.2rem;
-}
+
 .voteshare {
   margin-top: 0em;
   margin-right: 0.25em;
   margin-bottom: 0em;
   margin-left: 0.25em;
   width: 10rem;
-  
 }
 .votesharepercent {
   font-family: "Segoe UI Semibold", sans-serif;
