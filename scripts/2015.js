@@ -209,7 +209,7 @@ const results = [
         percent: 26.41,
       },
     ],
-    seats: 4,
+    seats: 5,
   },
   {
     name: "Chua Chu Kang",
@@ -363,7 +363,7 @@ const results = [
         percent: 27.11,
       },
     ],
-    seats: 5,
+    seats: 6,
   },
   {
     name: "Sembawang",
@@ -419,6 +419,6 @@ const results = [
         percent: 21.43,
       },
     ],
-    seats: 5,
+    seats: 4,
   },
 ];

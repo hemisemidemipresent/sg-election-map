@@ -15,7 +15,7 @@ for (let i = 0; i < results.length; i++) {
     const diff = sortedVotes[0].percent - sortedVotes[1].percent;
     // 0 - lean (under 10)
     // 1 - likely (10 - 20)
-    // 2 - safe (under 10)
+    // 2 - safe (above 20)
     let margin = 0;
     if (diff > 10) margin = 1;
     if (diff > 20) margin = 2;

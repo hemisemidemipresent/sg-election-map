@@ -187,7 +187,7 @@ const results = [
         percent: 43.07,
       },
     ],
-    seats: 4,
+    seats: 5,
   },
   {
     name: "Chua Chu Kang",
@@ -201,7 +201,7 @@ const results = [
         percent: 38.8,
       },
     ],
-    seats: 4,
+    seats: 5,
   },
   {
     name: "Holland-Bukit Timah",
@@ -257,7 +257,7 @@ const results = [
         percent: 30.67,
       },
     ],
-    seats: 5,
+    seats: 6,
   },
   {
     name: "East Coast",
@@ -327,7 +327,7 @@ const results = [
         percent: 35.21,
       },
     ],
-    seats: 5,
+    seats: 6,
   },
   {
     name: "Sembawang",
