@@ -216,11 +216,11 @@ const results = [
     votes: [
       {
         name: "PAP",
-        percent: 57.22,
+        percent: 68.51,
       },
       {
-        name: "NSP",
-        percent: 42.78,
+        name: "SDA",
+        percent: 31.49,
       },
     ],
     seats: 5,
