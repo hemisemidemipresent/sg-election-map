@@ -293,7 +293,7 @@ const results = [
         percent: 21.36,
       },
     ],
-    seats: 5,
+    seats: 6,
   },
   {
     name: "East Coast",
