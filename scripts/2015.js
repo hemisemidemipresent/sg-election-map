@@ -307,7 +307,7 @@ const results = [
         percent: 39.27,
       },
     ],
-    seats: 5,
+    seats: 4,
   },
   {
     name: "Jurong",
