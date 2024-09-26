@@ -127,7 +127,7 @@ const results = [
         percent: 35.22,
       },
       {
-        name: "Independent",
+        name: "Indp.",
         percent: 2.78,
       },
     ],

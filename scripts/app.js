@@ -35,8 +35,9 @@ for (let i = 0; i < results.length; i++) {
     mouseLeave();
   };
 }
-
+no = false
 const onMouseMove = (e) => {
+    if(no) return
   box.style.left = e.pageX + "px";
   box.style.top = e.pageY + "px";
 };
@@ -45,12 +46,13 @@ document
   .addEventListener("mousemove", onMouseMove);
 
 function mouseEnter(result) {
+  console.log(result)
   box.style.display = "block";
 
   const constituent = document.getElementById("constituent");
   const seats = document.getElementById("seats");
   const data = document.getElementById("data");
-  const voteshare = document.getElementById("voteshare");
+  const votesharebox = document.getElementById("votesharebox");
 
   constituent.innerText = result.name;
 
@@ -75,17 +77,19 @@ function mouseEnter(result) {
   for (let i = 0; i < sortedVotes.length; i++) {
     let info = sortedVotes[i];
     let party = info.name;
-    html += `<div class='voteshare' style="background-color:${
-      colors[party][0]
-    }"><div class="votesharebar" style="background-color:${
-      colors[party][1]
-    }; width:${info.percent / 10}rem"><p class="votesharepercent">${
-      info.percent
-    }%</p></div></div>`;
+
+    // font shenanigans
+    if(party.startsWith('W') || party.startsWith('M')) info.name = '&VeryThinSpace;' + info.name
+
+    html += `<div class='voteshare' style="background-color:${colors[party][0]}">
+                <div class="votesharebar" style="background-color:${colors[party][1]}; min-width:${info.percent / 10}rem"></div>
+                <p class="votesharename ${party.length > 8 ? 'smaller-party-name' : ''}">${info.name}</p>
+                <p class="votesharepercent">${info.percent}%</p>
+            </div>`;
   }
 
-  voteshare.innerHTML = html;
+  votesharebox.innerHTML = html;
 }
 function mouseLeave() {
-  box.style.display = "none";
+//   box.style.display = "none";
 }

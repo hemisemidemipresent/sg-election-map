@@ -14,7 +14,7 @@ const results = [
         percent: 26.38,
       },
       {
-        name: "Independent",
+        name: "Indp.",
         percent: 0.60,
       }
     ],
@@ -163,7 +163,7 @@ const results = [
         percent: 12.72,
       },
       {
-        name: "Independent",
+        name: "Indp.",
         percent: 10.03,
       },
     ],
@@ -293,7 +293,7 @@ const results = [
         percent: 21.36,
       },
     ],
-    seats: 5,
+    seats: 6,
   },
   {
     name: "East Coast",
@@ -307,7 +307,7 @@ const results = [
         percent: 39.27,
       },
     ],
-    seats: 5,
+    seats: 4,
   },
   {
     name: "Jurong",

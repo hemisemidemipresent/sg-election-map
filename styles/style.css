@@ -1,14 +1,30 @@
-body {
-  background-color: black;
-  color: white;
-  font-family: "Segoe UI Black", "Open Sans", sans-serif;
-  /* font-size: 7mm; */
+@font-face {
+    font-family: bc-skonlar-medium;
+    src: url(../fonts/bc-skonlar-medium.ttf);
 }
+
+@font-face {
+    font-family: bc-skonlar-bold;
+    src: url(../fonts/bc-skonlar-bold.ttf);
+}
+
+@font-face {
+    font-family: bc-skonlar-light;
+    src: url(../fonts/bc-skonlar-light.ttf);
+}
+
+body {
+    background-color: black;
+    color: white;
+    font-family: bc-skonlar-medium, sans-serif;
+    /* font-size: 7mm; */
+  }
 
 path:hover {
   stroke: #fff !important;
   stroke-width: 6 !important;
 }
+
 #singapore-whole {
   width: 100vw;
 }
@@ -17,32 +33,35 @@ path:hover {
   display: none;
   position: absolute;
   pointer-events: none;
-  background-color: rgba(44, 44, 44, 0.8);
+  background-color: rgba(44, 44, 44, 0.9);
   border-radius: 0.5rem;
   border: 1px solid white;
-  padding: 0.5rem;
+  padding: 0.2rem 0.2rem 0.5rem 0.2rem;
 }
+
 #constituent {
   margin: 0px;
-  padding-top: 0em;
-  padding-right: 0.25em;
-  padding-bottom: 0em;
-  padding-left: 0.25em;
+  padding: 0em 0.25em 0em 0.25em;
+  text-align: center;
+  font-family: bc-skonlar-bold;
+  width: 10rem;
+  text-wrap: balance;
 }
+
 #data {
-  margin: 0px;
-  padding-top: 0em;
-  padding-right: 0.25em;
-  padding-bottom: 0em;
-  padding-left: 0.25em;
+  margin: 0.25rem 0rem 0.25rem 0rem;
+  padding: 0em 0.25em 0em 0.25em;
+  text-align: center;
+  font-family: bc-skonlar-bold;
+  font-size: large;
 }
 
 #seats {
   margin: 0px;
-  padding-top: 0em;
-  padding-right: 0.25em;
-  padding-bottom: 0em;
-  padding-left: 0.25em;
+  padding: 0em 0.25em 0em 0.25em;
+  text-align: center;
+  font-family: bc-skonlar-light;
+  font-size: 0.9rem;
 }
 
 p {
@@ -50,14 +69,38 @@ p {
 }
 
 .voteshare {
-  margin-top: 0em;
-  margin-right: 0.25em;
-  margin-bottom: 0em;
-  margin-left: 0.25em;
+  margin: 0em 0.25em 0em 0.25em;
   width: 10rem;
+  height: 1.45rem;
+  position: relative;
+  display: block;
+  font-family: bc-skonlar-medium;
 }
+
+.votesharebar {
+  position: absolute;
+  display: block;
+  height: 100%;
+}
+
+.votesharename {
+    position: absolute;
+    margin: auto 0em;
+  padding-left: 0.1rem;
+}
+
+.smaller-party-name {
+  font-size: 0.9rem;
+  top: 0;
+  bottom: 0;
+  margin: auto 0em;
+  height: fit-content;
+}
+
 .votesharepercent {
-  font-family: "Segoe UI Semibold", sans-serif;
+  position: absolute;
   margin: 0em;
-  padding-left: 0.1em;
+  right: 1px;
+  display: block;
+  justify-content: space-between;
 }
