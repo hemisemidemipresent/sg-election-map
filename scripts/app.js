@@ -91,5 +91,5 @@ function mouseEnter(result) {
   votesharebox.innerHTML = html;
 }
 function mouseLeave() {
-//   box.style.display = "none";
+  box.style.display = "none";
 }
