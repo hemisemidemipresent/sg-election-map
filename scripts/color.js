@@ -15,7 +15,8 @@ const colors = {
     PPP: ["#DA996B", "#C46E31"],
     DPP: ["#FFC56D", "#FF9900"],
     UPF: ["#91B2C9", "#5688AB"],
-    "Indp.": ["#bbb","#868686"]
+    "Indp.": ["#bbb","#868686"],
+    AI: ["#bbb","#868686"]
 };
 // const colors = {
 //     PAP: ["#8aafff", "#577ccc", "#2c5aa0", "#12325C"],
