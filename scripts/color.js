@@ -7,11 +7,15 @@ const colors = {
     PV: ["#DBA9E8","#C572DA"],
     Reform: ["#E8DBA9","#CFB44A"],
     RDU: ["#B6B6FF","#8181FF"],
-    SPP: ["#8CCFE0","#2E93AD"],
-    SDA: ["#8aff97","#50c85e", "#1c8c28"],
+    SPP: ["#8CCFE0","#32A2BE","#277F94"],
+    SDA: ["#85F692","#50c85e", "#1c8c28"],
+    PKMS: ["#85F692","#50c85e", "#1c8c28"],
+    SJP: ["#DEDE00", "#C0C000"],
     SingFirst: ["#FFB6F0", "#FF81E6"],
     PPP: ["#DA996B", "#C46E31"],
-    "Indp.": ["#ccc","#999"]
+    DPP: ["#FFC56D", "#FF9900"],
+    UPF: ["#91B2C9", "#5688AB"],
+    "Indp.": ["#bbb","#868686"]
 };
 // const colors = {
 //     PAP: ["#8aafff", "#577ccc", "#2c5aa0", "#12325C"],

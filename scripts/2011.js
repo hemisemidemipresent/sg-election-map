@@ -1,5 +1,4 @@
 const year = 2011
-const needStroke = false;
 
 const results = [
   {

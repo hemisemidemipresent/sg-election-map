@@ -1,12 +1,31 @@
+@font-face {
+    font-family: bc-skonlar-medium;
+    src: url(../fonts/bc-skonlar-medium.ttf);
+}
+
+html {
+    display: table;
+    margin: auto;
+}
+
+body {
+    display: table-cell;
+    vertical-align: middle;
+}
+
 body {
   background-color: black;
   color: white;
   font-family: "Segoe UI Black", "Open Sans", sans-serif;
   /* font-size: 7mm; */
 }
+h1 {
+    text-align: center;
+}
+
 
 #the_map {
-  width: 70vw;
+  width: 85vw;
   /* height: 70vh; */
   margin: 0 auto;
 }
@@ -14,6 +33,7 @@ body {
 .mobile-only {
   display: none;
 }
+
 @media only screen and (max-width: 600px) {
   body {
     font-size: 3mm;
@@ -28,6 +48,50 @@ body {
     display: inline-block;
   }
 }
+
 p{
   font-size:1.2rem;
+}
+
+#sliderContainer {
+    display: flex;
+    flex-direction: column;
+    align-self: center;
+    width: 80vw;
+}
+
+.slider {
+    -webkit-appearance: none;
+    appearance: none;
+    height: 1.5rem;
+    /* width: 80vw; */
+    border-radius: 0.5rem;
+    background: #777;
+    outline: none;
+    opacity: 0.85;
+    -webkit-transition: .2s;
+    transition: opacity .2s;
+    margin: 0 0.2rem;
+}
+
+input[type="range"]::-webkit-slider-thumb{
+    -webkit-appearance: none;
+    border-radius: 15%;
+    width: 1rem;
+    height: 1.5rem;
+    background-color: white;
+}
+
+datalist {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    writing-mode: vertical-lr;
+    /* width: 80vw; */
+    font-family: bc-skonlar-medium;
+    font-size: larger;
+}
+
+.by-election {
+    color: #727272;
 }

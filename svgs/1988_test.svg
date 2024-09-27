@@ -1,0 +1,937 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   sodipodi:docname="1988_test.svg"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
+   id="svg8"
+   version="1.1"
+   viewBox="0 0 338.61044 221.75681"
+   height="221.75682mm"
+   width="338.61044mm"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#505050"
+     bordercolor="#ffffff"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:deskcolor="#505050"
+     inkscape:document-units="mm"
+     inkscape:zoom="4.1069656"
+     inkscape:cx="639.15803"
+     inkscape:cy="135.98848"
+     inkscape:window-width="2560"
+     inkscape:window-height="1494"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="Constituencies"
+     showgrid="false" />
+  <defs
+     id="defs2">
+    <inkscape:path-effect
+       effect="offset"
+       id="path-effect59"
+       is_visible="true"
+       lpeversion="1.2"
+       linejoin_type="miter"
+       unit="mm"
+       offset="-0.2"
+       miter_limit="4"
+       attempt_force_join="false"
+       update_on_knot_move="true" />
+    <inkscape:path-effect
+       effect="offset"
+       id="path-effect58"
+       is_visible="true"
+       lpeversion="1.2"
+       linejoin_type="miter"
+       unit="mm"
+       offset="0.2"
+       miter_limit="4"
+       attempt_force_join="false"
+       update_on_knot_move="true" />
+    <inkscape:path-effect
+       effect="offset"
+       id="path-effect57"
+       is_visible="true"
+       lpeversion="1.2"
+       linejoin_type="miter"
+       unit="mm"
+       offset="0.2"
+       miter_limit="4"
+       attempt_force_join="false"
+       update_on_knot_move="true" />
+    <inkscape:path-effect
+       effect="offset"
+       id="path-effect56"
+       is_visible="true"
+       lpeversion="1.2"
+       linejoin_type="miter"
+       unit="mm"
+       offset="-0.2"
+       miter_limit="4"
+       attempt_force_join="false"
+       update_on_knot_move="true" />
+    <inkscape:path-effect
+       effect="offset"
+       id="path-effect48"
+       is_visible="true"
+       lpeversion="1.2"
+       linejoin_type="miter"
+       unit="mm"
+       offset="-0.2"
+       miter_limit="4"
+       attempt_force_join="false"
+       update_on_knot_move="true" />
+    <inkscape:path-effect
+       effect="offset"
+       id="path-effect47"
+       is_visible="true"
+       lpeversion="1.2"
+       linejoin_type="miter"
+       unit="mm"
+       offset="-0.2"
+       miter_limit="4"
+       attempt_force_join="false"
+       update_on_knot_move="true" />
+    <inkscape:path-effect
+       effect="offset"
+       id="path-effect55"
+       is_visible="true"
+       lpeversion="1.2"
+       linejoin_type="miter"
+       unit="mm"
+       offset="-0.2"
+       miter_limit="4"
+       attempt_force_join="false"
+       update_on_knot_move="true" />
+    <inkscape:path-effect
+       effect="offset"
+       id="path-effect54"
+       is_visible="true"
+       lpeversion="1.2"
+       linejoin_type="miter"
+       unit="mm"
+       offset="-0.2"
+       miter_limit="4"
+       attempt_force_join="false"
+       update_on_knot_move="true" />
+    <inkscape:path-effect
+       effect="offset"
+       id="path-effect53"
+       is_visible="true"
+       lpeversion="1.2"
+       linejoin_type="miter"
+       unit="mm"
+       offset="-0.2"
+       miter_limit="4"
+       attempt_force_join="false"
+       update_on_knot_move="true" />
+    <inkscape:path-effect
+       effect="offset"
+       id="path-effect52"
+       is_visible="true"
+       lpeversion="1.2"
+       linejoin_type="miter"
+       unit="mm"
+       offset="-0.2"
+       miter_limit="4"
+       attempt_force_join="false"
+       update_on_knot_move="true" />
+    <inkscape:path-effect
+       effect="offset"
+       id="path-effect51"
+       is_visible="true"
+       lpeversion="1.2"
+       linejoin_type="miter"
+       unit="mm"
+       offset="-0.2"
+       miter_limit="4"
+       attempt_force_join="false"
+       update_on_knot_move="true" />
+    <inkscape:path-effect
+       effect="offset"
+       id="path-effect50"
+       is_visible="true"
+       lpeversion="1.2"
+       linejoin_type="miter"
+       unit="mm"
+       offset="-0.2"
+       miter_limit="4"
+       attempt_force_join="false"
+       update_on_knot_move="true" />
+    <inkscape:path-effect
+       effect="offset"
+       id="path-effect49"
+       is_visible="true"
+       lpeversion="1.2"
+       linejoin_type="miter"
+       unit="mm"
+       offset="-0.2"
+       miter_limit="4"
+       attempt_force_join="false"
+       update_on_knot_move="true" />
+    <inkscape:path-effect
+       effect="offset"
+       id="path-effect46"
+       is_visible="true"
+       lpeversion="1.2"
+       linejoin_type="miter"
+       unit="mm"
+       offset="-0.2"
+       miter_limit="4"
+       attempt_force_join="false"
+       update_on_knot_move="true" />
+    <inkscape:path-effect
+       effect="offset"
+       id="path-effect45"
+       is_visible="true"
+       lpeversion="1.2"
+       linejoin_type="miter"
+       unit="mm"
+       offset="-0.2"
+       miter_limit="4"
+       attempt_force_join="false"
+       update_on_knot_move="true" />
+    <inkscape:path-effect
+       effect="offset"
+       id="path-effect44"
+       is_visible="true"
+       lpeversion="1.2"
+       linejoin_type="miter"
+       unit="mm"
+       offset="0"
+       miter_limit="4"
+       attempt_force_join="false"
+       update_on_knot_move="true" />
+    <inkscape:path-effect
+       effect="offset"
+       id="path-effect43"
+       is_visible="true"
+       lpeversion="1.2"
+       linejoin_type="miter"
+       unit="mm"
+       offset="-0.2"
+       miter_limit="4"
+       attempt_force_join="false"
+       update_on_knot_move="true" />
+    <inkscape:path-effect
+       effect="offset"
+       id="path-effect42"
+       is_visible="true"
+       lpeversion="1.2"
+       linejoin_type="miter"
+       unit="mm"
+       offset="-0.2"
+       miter_limit="4"
+       attempt_force_join="false"
+       update_on_knot_move="true" />
+    <inkscape:path-effect
+       effect="offset"
+       id="path-effect41"
+       is_visible="true"
+       lpeversion="1.2"
+       linejoin_type="miter"
+       unit="mm"
+       offset="-0.2"
+       miter_limit="4"
+       attempt_force_join="false"
+       update_on_knot_move="true" />
+    <inkscape:path-effect
+       effect="offset"
+       id="path-effect40"
+       is_visible="true"
+       lpeversion="1.2"
+       linejoin_type="miter"
+       unit="mm"
+       offset="-0.2"
+       miter_limit="4"
+       attempt_force_join="false"
+       update_on_knot_move="true" />
+    <inkscape:path-effect
+       effect="offset"
+       id="path-effect39"
+       is_visible="true"
+       lpeversion="1.2"
+       linejoin_type="miter"
+       unit="mm"
+       offset="-0.2"
+       miter_limit="4"
+       attempt_force_join="false"
+       update_on_knot_move="true" />
+    <inkscape:path-effect
+       effect="offset"
+       id="path-effect38"
+       is_visible="true"
+       lpeversion="1.2"
+       linejoin_type="miter"
+       unit="mm"
+       offset="-0.2"
+       miter_limit="4"
+       attempt_force_join="false"
+       update_on_knot_move="true" />
+    <inkscape:path-effect
+       effect="offset"
+       id="path-effect37"
+       is_visible="true"
+       lpeversion="1.2"
+       linejoin_type="miter"
+       unit="mm"
+       offset="-0.2"
+       miter_limit="4"
+       attempt_force_join="false"
+       update_on_knot_move="true" />
+    <inkscape:path-effect
+       effect="offset"
+       id="path-effect36"
+       is_visible="true"
+       lpeversion="1.2"
+       linejoin_type="miter"
+       unit="mm"
+       offset="-0.2"
+       miter_limit="4"
+       attempt_force_join="false"
+       update_on_knot_move="true" />
+    <inkscape:path-effect
+       effect="offset"
+       id="path-effect35"
+       is_visible="true"
+       lpeversion="1.2"
+       linejoin_type="miter"
+       unit="mm"
+       offset="-0.2"
+       miter_limit="4"
+       attempt_force_join="false"
+       update_on_knot_move="true" />
+    <inkscape:path-effect
+       effect="offset"
+       id="path-effect34"
+       is_visible="true"
+       lpeversion="1.2"
+       linejoin_type="miter"
+       unit="mm"
+       offset="-0.2"
+       miter_limit="4"
+       attempt_force_join="false"
+       update_on_knot_move="true" />
+    <inkscape:path-effect
+       effect="offset"
+       id="path-effect33"
+       is_visible="true"
+       lpeversion="1.2"
+       linejoin_type="miter"
+       unit="mm"
+       offset="-0.2"
+       miter_limit="4"
+       attempt_force_join="false"
+       update_on_knot_move="true" />
+    <inkscape:path-effect
+       effect="offset"
+       id="path-effect32"
+       is_visible="true"
+       lpeversion="1.2"
+       linejoin_type="miter"
+       unit="mm"
+       offset="-0.2"
+       miter_limit="4"
+       attempt_force_join="false"
+       update_on_knot_move="true" />
+    <inkscape:path-effect
+       effect="offset"
+       id="path-effect31"
+       is_visible="true"
+       lpeversion="1.2"
+       linejoin_type="miter"
+       unit="mm"
+       offset="-0.2"
+       miter_limit="4"
+       attempt_force_join="false"
+       update_on_knot_move="true" />
+    <inkscape:path-effect
+       effect="offset"
+       id="path-effect30"
+       is_visible="true"
+       lpeversion="1.2"
+       linejoin_type="miter"
+       unit="mm"
+       offset="-0.2"
+       miter_limit="4"
+       attempt_force_join="false"
+       update_on_knot_move="true" />
+    <inkscape:path-effect
+       effect="offset"
+       id="path-effect29"
+       is_visible="true"
+       lpeversion="1.2"
+       linejoin_type="miter"
+       unit="mm"
+       offset="-0.2"
+       miter_limit="4"
+       attempt_force_join="false"
+       update_on_knot_move="true" />
+    <inkscape:path-effect
+       effect="offset"
+       id="path-effect28"
+       is_visible="true"
+       lpeversion="1.2"
+       linejoin_type="miter"
+       unit="mm"
+       offset="-0.2"
+       miter_limit="4"
+       attempt_force_join="false"
+       update_on_knot_move="true" />
+    <inkscape:path-effect
+       effect="offset"
+       id="path-effect27"
+       is_visible="true"
+       lpeversion="1.2"
+       linejoin_type="miter"
+       unit="mm"
+       offset="-0.2"
+       miter_limit="4"
+       attempt_force_join="false"
+       update_on_knot_move="true" />
+    <inkscape:path-effect
+       effect="offset"
+       id="path-effect26"
+       is_visible="true"
+       lpeversion="1.2"
+       linejoin_type="miter"
+       unit="mm"
+       offset="-0.2"
+       miter_limit="4"
+       attempt_force_join="false"
+       update_on_knot_move="true" />
+    <inkscape:path-effect
+       effect="offset"
+       id="path-effect25"
+       is_visible="true"
+       lpeversion="1.2"
+       linejoin_type="miter"
+       unit="mm"
+       offset="-0.2"
+       miter_limit="4"
+       attempt_force_join="false"
+       update_on_knot_move="true" />
+    <inkscape:path-effect
+       effect="offset"
+       id="path-effect24"
+       is_visible="true"
+       lpeversion="1.2"
+       linejoin_type="miter"
+       unit="mm"
+       offset="-0.2"
+       miter_limit="4"
+       attempt_force_join="false"
+       update_on_knot_move="true" />
+    <inkscape:path-effect
+       effect="offset"
+       id="path-effect23"
+       is_visible="true"
+       lpeversion="1.2"
+       linejoin_type="miter"
+       unit="mm"
+       offset="-0.2"
+       miter_limit="4"
+       attempt_force_join="false"
+       update_on_knot_move="true" />
+    <inkscape:path-effect
+       effect="offset"
+       id="path-effect22"
+       is_visible="true"
+       lpeversion="1.2"
+       linejoin_type="miter"
+       unit="mm"
+       offset="-0.2"
+       miter_limit="4"
+       attempt_force_join="false"
+       update_on_knot_move="true" />
+    <inkscape:path-effect
+       effect="offset"
+       id="path-effect21"
+       is_visible="true"
+       lpeversion="1.2"
+       linejoin_type="miter"
+       unit="mm"
+       offset="-0.2"
+       miter_limit="4"
+       attempt_force_join="false"
+       update_on_knot_move="true" />
+    <inkscape:path-effect
+       effect="offset"
+       id="path-effect20"
+       is_visible="true"
+       lpeversion="1.2"
+       linejoin_type="miter"
+       unit="mm"
+       offset="-0.2"
+       miter_limit="4"
+       attempt_force_join="false"
+       update_on_knot_move="true" />
+    <inkscape:path-effect
+       effect="offset"
+       id="path-effect19"
+       is_visible="true"
+       lpeversion="1.2"
+       linejoin_type="miter"
+       unit="mm"
+       offset="-0.2"
+       miter_limit="4"
+       attempt_force_join="false"
+       update_on_knot_move="true" />
+    <inkscape:path-effect
+       effect="offset"
+       id="path-effect18"
+       is_visible="true"
+       lpeversion="1.2"
+       linejoin_type="miter"
+       unit="mm"
+       offset="-0.2"
+       miter_limit="4"
+       attempt_force_join="false"
+       update_on_knot_move="true" />
+    <inkscape:path-effect
+       effect="offset"
+       id="path-effect17"
+       is_visible="true"
+       lpeversion="1.2"
+       linejoin_type="miter"
+       unit="mm"
+       offset="-0.2"
+       miter_limit="4"
+       attempt_force_join="false"
+       update_on_knot_move="true" />
+    <inkscape:path-effect
+       effect="offset"
+       id="path-effect16"
+       is_visible="true"
+       lpeversion="1.2"
+       linejoin_type="miter"
+       unit="mm"
+       offset="-0.2"
+       miter_limit="4"
+       attempt_force_join="false"
+       update_on_knot_move="true" />
+    <inkscape:path-effect
+       effect="offset"
+       id="path-effect15"
+       is_visible="true"
+       lpeversion="1.2"
+       linejoin_type="miter"
+       unit="mm"
+       offset="-0.2"
+       miter_limit="4"
+       attempt_force_join="false"
+       update_on_knot_move="true" />
+    <inkscape:path-effect
+       effect="offset"
+       id="path-effect14"
+       is_visible="true"
+       lpeversion="1.2"
+       linejoin_type="miter"
+       unit="mm"
+       offset="-0.2"
+       miter_limit="4"
+       attempt_force_join="false"
+       update_on_knot_move="true" />
+    <inkscape:path-effect
+       effect="offset"
+       id="path-effect13"
+       is_visible="true"
+       lpeversion="1.2"
+       linejoin_type="miter"
+       unit="mm"
+       offset="-0.2"
+       miter_limit="4"
+       attempt_force_join="false"
+       update_on_knot_move="true" />
+    <inkscape:path-effect
+       effect="offset"
+       id="path-effect12"
+       is_visible="true"
+       lpeversion="1.2"
+       linejoin_type="miter"
+       unit="mm"
+       offset="-0.2"
+       miter_limit="4"
+       attempt_force_join="false"
+       update_on_knot_move="true" />
+    <inkscape:path-effect
+       effect="offset"
+       id="path-effect11"
+       is_visible="true"
+       lpeversion="1.2"
+       linejoin_type="miter"
+       unit="mm"
+       offset="-0.2"
+       miter_limit="4"
+       attempt_force_join="false"
+       update_on_knot_move="true" />
+    <inkscape:path-effect
+       effect="offset"
+       id="path-effect10"
+       is_visible="true"
+       lpeversion="1.2"
+       linejoin_type="miter"
+       unit="mm"
+       offset="-0.2"
+       miter_limit="4"
+       attempt_force_join="false"
+       update_on_knot_move="true" />
+    <inkscape:path-effect
+       effect="offset"
+       id="path-effect9"
+       is_visible="true"
+       lpeversion="1.2"
+       linejoin_type="miter"
+       unit="mm"
+       offset="-0.2"
+       miter_limit="4"
+       attempt_force_join="false"
+       update_on_knot_move="true" />
+    <inkscape:path-effect
+       effect="offset"
+       id="path-effect8"
+       is_visible="true"
+       lpeversion="1.2"
+       linejoin_type="miter"
+       unit="mm"
+       offset="-0.2"
+       miter_limit="4"
+       attempt_force_join="false"
+       update_on_knot_move="true" />
+    <inkscape:path-effect
+       effect="offset"
+       id="path-effect7"
+       is_visible="true"
+       lpeversion="1.2"
+       linejoin_type="miter"
+       unit="mm"
+       offset="-0.2"
+       miter_limit="4"
+       attempt_force_join="false"
+       update_on_knot_move="true" />
+    <inkscape:path-effect
+       effect="offset"
+       id="path-effect6"
+       is_visible="true"
+       lpeversion="1.2"
+       linejoin_type="miter"
+       unit="mm"
+       offset="-0.2"
+       miter_limit="4"
+       attempt_force_join="false"
+       update_on_knot_move="true" />
+    <inkscape:path-effect
+       effect="offset"
+       id="path-effect5"
+       is_visible="true"
+       lpeversion="1.2"
+       linejoin_type="miter"
+       unit="mm"
+       offset="-0.2"
+       miter_limit="4"
+       attempt_force_join="false"
+       update_on_knot_move="true" />
+    <inkscape:path-effect
+       effect="offset"
+       id="path-effect4"
+       is_visible="true"
+       lpeversion="1.2"
+       linejoin_type="miter"
+       unit="mm"
+       offset="-0.2"
+       miter_limit="4"
+       attempt_force_join="false"
+       update_on_knot_move="true" />
+    <inkscape:path-effect
+       effect="offset"
+       id="path-effect3"
+       is_visible="true"
+       lpeversion="1.2"
+       linejoin_type="miter"
+       unit="mm"
+       offset="-0.2"
+       miter_limit="4"
+       attempt_force_join="false"
+       update_on_knot_move="true" />
+    <inkscape:path-effect
+       effect="offset"
+       id="path-effect2"
+       is_visible="true"
+       lpeversion="1.2"
+       linejoin_type="miter"
+       unit="mm"
+       offset="-0.2"
+       miter_limit="4"
+       attempt_force_join="false"
+       update_on_knot_move="true" />
+    <inkscape:path-effect
+       effect="offset"
+       id="path-effect1"
+       is_visible="true"
+       lpeversion="1.2"
+       linejoin_type="miter"
+       unit="mm"
+       offset="-0.2"
+       miter_limit="4"
+       attempt_force_join="false"
+       update_on_knot_move="true" />
+    <pattern
+       id="EMFhbasepattern"
+       patternUnits="userSpaceOnUse"
+       width="6"
+       height="6"
+       x="0"
+       y="0" />
+    <pattern
+       id="EMFhbasepattern-1"
+       patternUnits="userSpaceOnUse"
+       width="6"
+       height="6"
+       x="0"
+       y="0" />
+  </defs>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g>
+        <path
+          d="M 77.4114 128.454 C 77.4185 128.458 77.4232 128.461 77.4232 128.461 C 77.403 128.454 76.739 128.346 76.4497 128.201 C 76.1991 128.076 75.6059 127.898 75.3431 127.714 C 75.1154 127.554 74.6237 127.201 74.4369 127.126 C 74.2522 127.052 74.0618 127.149 73.8457 127.057 C 73.7802 127.029 73.299 127.01 73.1848 126.747 C 73.1832 126.746 73.1816 126.746 73.1794 126.745 C 73.177 126.744 73.1737 126.743 73.1701 126.742 C 73.1661 126.74 73.1613 126.739 73.1562 126.738 C 73.1505 126.736 73.1444 126.734 73.1376 126.733 C 73.088 126.722 73.026 126.714 72.9503 126.708 C 72.7574 126.695 72.5367 126.701 72.4156 126.688 C 72.3792 126.684 72.2926 126.683 72.1734 126.687 C 71.813 126.699 71.2705 126.756 71.2649 126.758 C 71.2649 126.758 71.2268 126.785 70.71 126.926 C 70.4702 127.479 70.4082 127.577 70.4082 127.577 C 70.393 127.605 70.3779 127.632 70.3633 127.656 C 70.3485 127.679 70.3224 127.716 70.3022 127.736 C 70.1446 127.894 69.7065 127.809 69.5554 127.784 C 69.5519 127.792 69.5491 127.797 69.5454 127.806 C 69.5454 127.806 69.4758 127.977 69.3535 128.373 L 70.0747 129.075 L 70.8795 129.49 L 71.3964 130.194 C 71.4008 130.199 71.3967 130.194 71.4011 130.2 L 71.4034 130.204 C 71.9512 130.863 71.956 130.931 71.956 130.931 C 71.9781 130.965 71.9983 130.999 72.0163 131.03 C 72.0358 131.064 72.0557 131.102 72.0689 131.135 C 72.0822 131.167 72.1024 131.25 72.0937 131.302 C 72.0937 131.302 72.0933 131.46 71.6789 131.812 L 71.4003 132.37 L 71.8043 133.114 L 71.7819 134.237 L 72.2562 135.035 C 73.3472 134.997 73.3578 135.007 73.4379 135.008 C 73.483 135.008 73.5242 135.008 73.564 135.009 L 73.7792 134.084 L 74.081 134.001 C 74.2365 133.833 74.2659 133.727 74.2659 133.727 C 74.2659 133.509 74.3491 133.244 74.5043 133.089 C 74.7029 132.89 75.0297 133.031 75.0297 133.031 C 75.0297 133.031 75.1456 132.985 75.4778 133.357 C 75.7053 133.501 75.802 133.506 75.802 133.506 C 75.8101 133.507 75.8689 133.506 75.9111 133.508 C 75.9757 133.362 76.0473 133.261 76.0473 133.261 C 76.1143 133.18 76.0441 133.127 76.24 132.931 C 76.24 132.931 76.3824 132.817 76.483 132.733 L 76.476 132.721 C 76.2073 132.632 76.14 132.162 76.1169 132.023 C 76.0665 131.72 76.556 131.475 76.7654 131.475 C 76.7654 131.475 76.9448 131.456 76.9666 131.456 C 76.9427 131.386 76.8847 131.212 76.8482 131.115 C 76.8098 131.012 76.8382 130.903 76.8707 130.831 C 76.9717 130.61 77.3393 130.258 77.5315 130.258 C 77.6509 130.258 78.1858 130.416 78.2752 130.416 C 78.2752 130.416 78.3777 130.435 78.5832 130.527 C 78.5973 130.198 78.6103 129.841 78.6103 129.841 C 78.6103 129.791 78.6099 129.742 78.6087 129.696 C 78.6075 129.644 78.6059 129.596 78.6033 129.552 C 78.6001 129.502 78.5965 129.459 78.5917 129.423 C 78.5873 129.389 78.5826 129.373 78.5785 129.357 C 78.5154 129.323 78.3851 129.21 78.1258 128.835 C 77.6458 128.572 77.4458 128.465 77.3751 128.428 C 77.3978 128.441 77.4247 128.457 77.4247 128.457 C 77.4231 128.456 77.4187 128.455 77.4113 128.454 Z M 81.6973 128.15 L 81.6977 128.15 C 81.7044 128.142 81.7146 128.132 81.7296 128.118 C 81.7296 128.118 81.7386 128.063 82.3015 127.72 L 82.3185 127.71 L 82.358 127.674 C 82.3894 127.763 82.4804 128.017 82.5035 128.086 C 82.5655 128.272 82.7639 128.299 82.8385 128.312 C 82.846 128.313 82.8522 128.315 82.8587 128.316 C 82.8626 128.317 82.8661 128.317 82.8695 128.318 C 82.8698 128.32 82.8699 128.32 82.8703 128.322 C 82.8703 128.322 82.8856 128.254 82.9399 129.05 L 82.7867 129.403 L 81.7853 129.421 L 81.718 129.321 L 81.7815 129.113 L 81.7831 129.108 C 81.8977 128.647 81.8542 128.513 81.8542 128.513 C 81.8338 128.37 81.7363 128.245 81.7072 128.162 C 81.7024 128.148 81.6991 128.148 81.6973 128.15 Z M 55.7686 134.171 C 55.8103 134.324 55.8852 134.575 56.0193 134.988 L 56.0804 135.176 L 55.8568 135.252 L 55.8661 135.281 L 57.0779 135.217 L 57.3573 135.147 L 57.4277 133.872 L 57.5174 133.818 C 58.1592 133.426 58.2201 133.439 58.2201 133.439 C 58.2506 133.426 58.2815 133.414 58.3106 133.405 C 58.3418 133.395 58.3853 133.386 58.4275 133.386 C 58.6157 133.386 59.1868 133.569 59.3786 133.569 C 59.3786 133.569 59.4771 133.586 59.962 133.372 L 60.0727 132.338 L 60.5269 132.187 L 60.5935 131.896 C 60.0841 130.966 60.1307 131.083 60.1307 131.083 C 60.115 131.058 60.1041 131.042 60.0975 131.033 C 60.0975 131.033 59.875 130.854 60.2638 130.124 L 60.2855 130.082 L 61.4323 129.263 C 61.4081 129.242 61.3557 129.173 61.3557 129.173 C 61.3557 129.173 61.0181 129.163 60.9843 128.637 L 60.9843 128.636 L 60.8574 128.282 L 59.4319 128.513 L 58.8995 128.513 L 58.9738 129.489 L 58.7363 129.464 C 57.7109 129.362 57.7697 129.338 57.7697 129.338 C 57.7399 129.333 57.7126 129.327 57.6854 129.321 C 57.6846 129.325 57.6593 129.419 57.707 129.622 L 57.7666 129.878 L 56.7258 129.838 L 56.4542 131.297 L 56.1826 131.602 L 56.205 131.828 L 56.8179 132.687 L 56.2568 133.294 L 56.2429 133.305 C 55.8105 133.637 55.7104 133.681 55.6764 133.691 C 55.68 133.722 55.6841 133.757 55.6919 133.8 C 55.6994 133.84 55.7091 133.884 55.7198 133.932 C 55.7198 133.932 55.7178 133.932 55.7182 133.942 C 55.7272 133.982 55.7371 134.023 55.7477 134.066 C 55.7477 134.066 55.747 134.082 55.7687 134.171 Z M 77.4524 135.861 C 77.4565 135.861 77.4607 135.861 77.4647 135.86 L 77.4643 135.855 C 77.4592 135.856 77.4559 135.859 77.4525 135.861 Z M 69.6727 132.398 C 69.6742 132.387 69.6595 132.323 69.5462 132.021 L 69.4285 131.771 L 69.1213 131.79 L 69.2328 132.136 L 69.5152 132.441 L 69.5895 132.94 L 69.6677 132.94 L 69.6677 132.396 C 69.6677 132.396 69.67 132.4 69.6716 132.4 L 69.6716 132.396 L 69.6728 132.398 Z M 91.9077 136.818 C 91.9093 136.821 91.9105 136.823 91.9105 136.823 C 91.9048 136.815 91.5157 136.719 91.3077 136.537 C 91.145 136.395 90.5623 136.033 90.3667 135.998 C 90.136 135.956 89.6378 135.939 89.4079 135.853 C 89.2754 135.803 88.7346 135.752 88.6216 135.752 C 88.3906 135.752 87.7127 135.194 87.4671 135.015 C 87.1993 134.821 86.7603 134.358 86.646 134.263 C 86.5042 134.145 85.6503 133.405 85.3831 133.182 C 85.1104 132.955 84.6089 132.273 84.4862 132.037 L 84.4822 132.036 C 84.4787 132.036 84.475 132.035 84.4706 132.034 C 84.4658 132.033 84.4608 132.032 84.4551 132.032 C 84.4488 132.031 84.4422 132.03 84.435 132.029 C 84.3583 132.021 84.2553 132.023 84.1456 132.029 C 84.1413 132.03 84.0378 132.025 83.7153 132.075 L 83.7006 132.077 L 82.0175 132.077 C 81.9772 132.077 81.9227 132.087 81.8465 132.108 C 81.8465 132.108 81.595 132.172 81.1694 132.392 L 80.945 132.803 L 80.6261 134.584 L 80.4172 134.819 L 79.9962 135.426 L 78.7983 136.247 L 78.4578 137.069 C 78.4677 137.257 78.529 137.417 78.529 137.417 C 78.529 137.417 78.5359 137.422 78.5824 137.45 C 78.6743 137.505 78.8243 137.565 79.018 137.638 C 79.1836 137.698 79.3855 137.772 79.6157 137.865 C 79.845 137.955 80.0989 138.062 80.3677 138.19 C 81.3937 138.681 81.3127 138.549 82.2922 139.073 C 83.2486 139.585 82.9551 139.317 83.2371 139.423 C 83.4174 139.491 84.2483 140.018 84.4737 140.131 C 84.6797 140.234 85.324 140.606 85.5358 140.726 C 85.5361 140.726 85.555 140.736 85.6108 140.767 C 85.6606 140.789 85.0937 140.477 86.5221 141.267 C 87.5021 141.432 87.573 141.4 87.573 141.4 C 87.6229 141.403 87.6702 141.406 87.7138 141.408 C 87.7625 141.409 87.8047 141.409 87.8415 141.408 C 87.8833 141.406 87.9087 141.403 87.9266 141.399 C 88.26 141.328 88.1953 141.371 88.3476 141.333 C 88.3476 141.333 88.4816 141.279 88.7577 140.93 L 88.7701 140.914 L 89.6987 140.127 L 89.742 140.116 C 90.2981 139.968 90.6264 139.88 90.8124 139.831 C 90.783 139.833 90.7685 139.834 90.8324 139.825 C 90.7873 139.829 90.7469 139.832 90.8906 139.815 C 90.8806 139.817 90.8699 139.82 90.8584 139.823 C 90.8714 139.822 90.8811 139.821 90.8812 139.821 C 90.8695 139.824 90.8697 139.823 90.8776 139.82 C 90.8606 139.822 90.8464 139.824 90.8348 139.825 C 91.1626 139.739 90.9997 139.783 90.9138 139.809 C 91.1311 139.751 90.9974 139.788 90.9185 139.812 C 91.1077 139.789 91.549 139.738 92.5064 139.632 L 92.6356 138.855 L 92.5946 138.067 C 92.0705 137.092 91.883 136.749 91.8337 136.664 C 91.8582 136.714 91.9136 136.821 91.9136 136.821 C 91.9132 136.82 91.9112 136.819 91.9078 136.818 Z M 79.4985 141.593 C 79.6243 141.668 79.7348 141.734 78.334 140.934 L 78.2125 140.865 L 78.416 139.679 C 78.1224 139.674 77.879 139.569 77.879 139.569 C 77.7989 139.534 77.7123 139.488 77.6267 139.44 C 77.6267 139.44 77.3871 139.322 76.9186 138.984 L 76.9109 138.979 L 76.736 138.825 L 76.7352 138.825 L 76.1084 138.359 L 75.8878 138.09 L 75.8863 138.089 C 75.7508 137.916 75.5852 137.892 75.5852 137.892 C 75.565 137.889 75.5484 137.889 75.5334 137.892 C 75.2399 137.937 75.1118 137.956 75.0513 137.986 C 74.9532 138.035 74.0607 138.44 74.0399 138.468 C 74.0398 138.468 74.0367 138.474 74.0275 138.491 C 74.0275 138.491 74.0318 138.479 74.0355 138.468 C 74.034 138.471 74.0304 138.477 74.0244 138.488 C 74.0244 138.488 74.033 138.465 74.0367 138.452 C 74.0191 138.481 73.9365 138.657 73.6437 139.333 C 73.6303 139.387 73.6236 139.424 73.605 139.628 C 73.5832 139.868 73.6189 140.557 73.6305 140.58 C 73.6456 140.611 73.6563 140.655 73.6614 140.682 C 73.6663 140.707 73.6712 140.738 73.6753 140.769 C 73.6753 140.769 73.6921 140.722 73.738 141.585 L 74.0569 142.224 L 74.0569 142.947 C 74.0569 142.947 74.0568 142.934 74.0623 142.957 C 74.0623 142.957 74.0563 142.942 74.053 142.936 L 74.053 142.947 C 74.053 142.947 74.0529 142.935 74.0584 142.958 C 74.0636 142.98 74.0704 143.009 74.0801 143.045 L 74.0789 143.043 C 74.117 143.174 74.2023 143.452 74.3843 144.024 C 74.4199 144.041 74.4412 144.05 74.4988 144.079 C 74.5944 144.127 74.7211 144.192 74.8718 144.27 C 75.0372 144.355 75.1234 144.399 75.1644 144.42 C 75.1395 144.405 75.1203 144.394 75.1949 144.433 C 75.1509 144.403 74.4837 144.051 79.5404 146.716 L 79.566 146.729 L 80.6354 147.756 C 81.4399 147.797 81.6569 147.803 81.7055 147.802 C 81.7032 147.802 81.702 147.802 81.702 147.802 C 81.7069 147.802 81.712 147.802 81.7173 147.801 C 81.7225 147.8 81.702 147.798 81.702 147.798 C 81.9405 147.798 82.4931 147.486 82.7167 147.425 L 82.7135 147.428 L 82.7095 147.431 C 82.7119 147.43 82.7141 147.43 82.7167 147.429 C 82.7115 147.43 82.7062 147.432 82.7006 147.433 L 82.7018 147.433 C 82.703 147.432 82.7042 147.431 82.7058 147.429 C 82.7074 147.428 82.7086 147.427 82.7104 147.425 C 82.9458 147.209 83.6577 146.179 83.7907 146.079 C 83.8436 146.039 84.5719 145.144 84.8029 145.078 C 84.8029 145.078 85.0744 144.772 85.1906 144.623 C 85.3343 144.438 85.5427 144.139 85.5427 144.139 C 85.5824 143.981 85.71 143.803 85.6758 143.615 C 85.648 143.462 85.5812 143.431 85.2107 143.153 C 85.0756 143.052 85.0192 142.955 84.9948 142.878 C 84.9582 142.878 84.9144 142.877 84.8579 142.877 C 84.3075 142.877 84.8197 142.922 84.091 142.922 C 83.3814 142.922 82.5294 142.807 82.3127 142.786 C 82.3003 142.784 82.2845 142.784 82.2562 142.785 C 82.2316 142.786 82.2021 142.788 82.1695 142.79 C 82.1695 142.79 82.1697 142.755 81.3585 142.918 L 81.2324 142.943 L 80.546 141.994 L 80.5367 141.953 C 80.5016 141.789 80.399 141.772 80.399 141.772 C 80.1437 141.748 79.652 141.649 79.4485 141.559 C 79.5101 141.596 79.6563 141.682 79.4988 141.593 Z M 38.3361 64.284 L 39.3165 64.551 L 40.2738 65.8668 L 41.1846 65.2971 L 42.1078 66.2205 L 43.387 64.825 L 44.9215 65.2639 L 45.4323 64.856 L 45.9685 65.2847 L 46.8182 64.7987 L 47.6524 64.7987 L 48.5277 64.7987 L 48.9966 65.7352 L 48.629 67.4511 L 51.014 67.5765 L 51.8165 67.2762 L 53.3472 68.9085 L 53.5701 70.7041 L 54.0823 71.088 L 57.7125 73.8109 L 59.5388 73.3241 L 60.5672 71.9526 L 61.7984 70.9263 L 63.5063 71.4007 L 62.9971 73.3333 L 62.6659 76.2079 L 61.8735 78.1328 L 63.1317 82.5963 L 68.9294 86.8331 L 73.1074 93.5411 L 73.4626 95.4381 L 77.0223 95.5566 L 80.719 92.8685 L 82.3897 92.2718 L 82.2845 90.9088 L 84.938 91.1132 L 87.5428 91.439 L 90.1584 93.2911 L 93.5084 96.0836 L 95.3857 96.8568 L 96.2269 97.6974 L 94.2087 100.051 L 97.7568 102.684 L 98.1437 105.199 L 96.0249 104.717 L 93.236 102.82 L 89.5641 102.583 L 89.0866 105.089 L 88.6494 107.382 L 85.0773 112.853 L 85.5501 116.041 L 87.4282 116.747 L 88.5132 117.248 L 88.1464 117.457 L 85.9038 116.835 L 86.6234 119.953 L 85.7978 120.964 L 81.3992 118.282 L 77.694 115.474 L 74.4578 115.474 L 73.4851 116.123 L 72.5425 115.853 L 72.5425 120.032 L 68.6887 120.133 L 68.3676 118.421 L 67.1101 117.85 L 66.6489 117.043 L 65.7914 116.935 L 65.4688 115.86 L 64.5061 115.447 L 63.0319 116.431 L 62.5606 117.61 L 62.2101 119.008 L 62.6102 120.406 L 56.3544 121.657 L 55.6208 118.305 L 55.3963 116.508 L 54.3106 114.064 L 53.5151 115.918 L 52.8194 115.918 L 53.7891 117.304 L 54.535 122.629 L 52.6128 123.109 L 52.7916 123.299 L 51.6238 123.455 L 48.2994 119.272 L 48.4178 116.678 L 45.0956 116.934 L 45.5754 120.536 L 49.2504 124.643 L 43.7445 129.067 L 42.9397 127.226 L 39.1386 122.618 L 37.3827 123.906 L 36.848 123.852 L 38.3415 122.517 L 36.2985 121.427 L 35.8776 121.813 L 36.2537 121.185 L 35.1037 120.179 L 33.4647 121.709 L 32.3774 120.351 L 37.3672 115.252 L 37.8849 114.604 L 37.7209 114.108 L 37.1583 113.686 L 36.3721 113.817 L 34.7477 114.746 L 32.5322 117.937 L 30.3794 115.137 L 34.6471 110.981 L 32.3032 109.418 L 28.4432 113.499 L 21.5645 106.62 L 18.6393 109.545 L 23.0054 115.703 L 20.9856 121.202 L 29.5134 126.252 L 30.3368 128.002 L 29.758 129.353 L 29.3471 129.353 L 14.4412 127.907 L 14.4048 127.917 C 13.9033 128.061 13.388 127.984 13.388 127.984 C 13.0698 127.932 12.7855 127.792 12.6435 127.473 C 12.539 127.238 12.3655 127.043 12.1769 126.871 C 11.394 126.158 10.4313 125.81 10.9767 124.641 C 11.0582 124.466 11.2198 124.062 11.4448 123.475 C 11.6475 122.946 11.9027 122.266 12.1978 121.472 C 12.4634 120.758 12.761 119.95 13.0823 119.075 C 13.6607 117.5 14.3146 115.707 14.9906 113.846 C 15.5314 112.357 16.087 110.824 16.6289 109.325 C 18.7908 103.343 16.8417 108.781 20.7535 97.8653 L 20.7651 97.8328 L 20.7651 96.8599 L 21.1806 96.2361 L 22.5751 93.6797 L 21.8121 92.5357 L 21.056 92.1572 L 21.6457 90.9762 L 23.2073 91.9382 L 23.2073 90.5172 L 23.171 90.4653 C 22.8912 90.0672 22.6932 89.6372 22.6842 89.6186 C 22.5261 89.2907 22.379 88.9117 22.3166 88.5482 C 22.1754 87.7246 22.4377 86.9052 24.5415 87.1156 C 25.434 87.2048 26.0276 87.2013 26.3747 87.1334 C 27.0378 87.0036 27.0394 86.5821 26.7059 86.2247 C 26.6179 86.1304 26.5086 86.0374 26.3933 85.9499 C 26.3933 85.9499 26.0914 85.7098 25.4716 85.3818 L 26.2842 83.0444 L 29.0507 81.0522 L 32.9694 72.5416 L 33.0569 72.016 L 34.0869 72.016 L 34.0869 71.4417 L 34.5636 72.3953 L 34.8878 71.6646 L 34.9102 71.8411 L 35.2941 71.8906 Z M 64.2337 117.209 L 64.6779 117.356 L 65.1623 117.945 L 66.2465 118.959 L 66.3092 120.64 L 64.082 120.572 L 63.9837 120.594 L 64.0085 120.109 L 63.9319 119.236 L 63.8073 118.768 L 64.2685 118.192 L 63.497 118.12 L 63.6564 117.651 L 63.9884 117.257 Z M 76.3986 117.223 L 76.5712 117.842 L 76.924 117.887 L 77.3535 118.347 L 77.499 118.88 L 78.2945 118.729 C 78.4689 119.122 78.6668 119.201 78.6667 119.201 C 78.6667 119.201 78.7732 119.282 78.8958 119.525 L 78.7364 120.293 L 78.5507 120.585 L 77.7234 120.68 L 77.1593 120.567 L 76.9712 119.438 L 75.6897 119.438 L 75.552 118.61 L 75.0792 118.442 L 75.1937 117.466 L 75.4661 117.342 Z M 82.1181 130.478 C 82.1292 130.568 82.1552 130.728 82.1552 130.728 C 82.1552 130.728 82.1414 130.782 82.1792 131.112 L 82.1985 131.278 L 82.3046 131.285 L 81.2049 131.499 C 81.1991 131.487 81.1939 131.477 81.1871 131.461 C 81.1632 131.405 81.1298 131.346 81.0997 131.289 C 81.2535 131.333 81.5242 131.376 81.6445 130.991 C 81.7009 130.81 81.6966 130.661 81.6924 130.561 C 81.6921 130.551 81.6921 130.542 81.6917 130.533 C 81.7105 130.535 81.9101 130.507 82.118 130.478 Z M 67.2037 131.959 L 69.2521 134.639 L 69.1654 136.112 L 71.2703 137.515 L 72.1215 138.289 L 72.1215 139.594 L 71.829 140.323 L 70.9685 140.682 L 68.7483 139.86 L 65.8851 139.412 L 65.2258 140.813 L 64.2499 140.436 L 62.1025 140.867 L 61.1948 140.943 L 60.3575 140.044 L 61.7156 139.909 L 63.0203 138.51 L 62.7765 137.532 L 64.5247 136.395 L 63.6007 135.218 L 64.1718 134.861 L 64.2554 133.697 L 65.7814 132.973 L 66.4554 132.3 Z M 78.163 133.633 C 78.163 133.633 78.1229 133.626 78.6853 133.671 L 78.9639 134.064 L 78.6954 135.386 C 78.3529 135.407 78.0257 135.431 77.6832 135.454 C 77.686 135.454 77.6984 135.311 77.6661 134.731 L 77.7551 134.642 L 77.766 134.625 C 78.1649 134.013 77.9633 133.869 77.9633 133.869 C 77.9285 133.816 77.877 133.787 77.8209 133.769 C 77.9887 133.697 78.1513 133.633 78.1629 133.633 Z M 50.8778 135.119 L 51.9372 135.755 L 52.9959 135.638 L 54.5459 135.638 L 55.1456 136.437 L 55.6092 137.271 L 54.3555 138.236 L 53.2033 138.236 L 50.4994 138.236 L 50.4042 137.186 L 50.0947 135.641 Z M 69.4951 144.809 L 73.8952 147.3 C 75.388 148.378 74.7917 147.951 75.4266 148.43 C 75.6148 148.572 75.8003 148.713 75.9714 148.846 C 76.0664 148.92 76.1573 148.992 76.2407 149.059 C 76.3928 149.18 76.4333 149.257 76.4411 149.292 C 76.4411 149.292 76.3818 149.479 75.8352 149.547 L 75.7896 149.552 L 72.9085 151.418 L 66.491 153.584 L 64.7831 153.274 L 63.4831 150.917 L 63.4815 150.914 L 63.4807 150.912 C 63.1649 150.304 62.9931 149.816 62.9552 149.716 C 62.6941 149.027 62.4538 148.21 62.494 147.566 C 62.5243 147.082 62.701 146.855 62.8554 146.754 C 62.8554 146.754 63.1311 146.585 63.4296 146.654 L 63.5116 146.672 L 64.7459 145.878 L 66.0452 145.31 L 67.7438 145.31 L 68.424 144.885 Z"
+          id="Jurong"
+        />
+        <path
+          d="M 102.438 28.4736 C 102.601 28.5288 102.426 28.4798 100.141 27.7662 L 100.124 27.7608 L 97.893 26.589 L 96.5658 26.1292 L 95.6512 26.8838 L 94.3867 26.8838 L 91.9909 26.3266 L 91.0591 26.3266 L 91.4902 25.1788 L 91.4918 25.1749 L 91.7827 24.2036 C 91.498 24.0012 91.4705 23.9807 91.3486 23.8994 C 91.1539 23.7695 90.7459 23.2445 90.5237 22.9667 C 90.5237 22.9667 90.3422 22.8286 89.8659 23.0271 L 89.7932 23.0573 L 89.2677 22.8599 L 88.1317 22.3545 L 88.2292 20.997 L 87.4515 21.3623 L 86.9524 20.7624 L 87.5792 20.192 L 87.1605 19.5643 C 86.1607 19.2893 86.0725 19.3043 86.0725 19.3043 C 86.0166 19.2935 85.9629 19.2839 85.9123 19.2756 C 85.856 19.2665 85.8043 19.2591 85.7583 19.254 C 85.7583 19.254 85.3103 19.2298 84.6238 19.7694 L 83.2247 20.8778 L 81.9192 20.74 L 81.7978 19.0968 L 81.6298 18.6371 L 80.4373 18.5876 L 79.357 18.641 L 77.2553 19.305 L 75.7215 19.579 C 71.6376 22.1012 71.5461 22.1532 71.7636 22.0131 C 71.5923 22.1165 71.7944 21.9886 71.8957 21.9229 C 71.8156 21.9703 71.7595 22.0027 71.7292 22.0178 C 71.7292 22.0179 71.7025 22.0382 71.6642 22.0914 C 71.6642 22.0914 71.5112 22.2804 71.3268 22.798 L 71.309 22.8475 L 69.6654 24.2639 L 69.6599 24.2693 L 67.983 25.9473 L 64.9782 28.0611 L 63.757 29.2816 L 62.4136 30.3915 L 61.6212 30.3915 L 60.9998 30.7878 L 59.2989 30.6229 L 58.5869 31.335 L 57.4215 31.3876 L 57.0539 32.4921 L 56.3072 32.9905 L 55.9357 32.2452 L 54.8717 32.3783 L 54.6039 33.3419 L 53.1344 34.016 L 51.9736 33.9054 L 51.0984 34.3914 L 50.7657 35.5547 L 49.2628 36.5013 L 48.8403 38.0361 L 48.8387 38.0407 L 48.3922 39.8255 L 47.9983 41.0081 L 47.996 41.0143 C 47.6384 41.8877 47.455 42.0592 47.455 42.0592 C 47.424 42.1026 47.3915 42.1443 47.3583 42.1815 C 47.3219 42.2223 47.2797 42.2627 47.2353 42.2937 C 47.2211 42.3036 47.1951 42.304 47.178 42.313 C 47.1861 42.3482 47.2362 42.504 47.5138 42.9137 L 48.6855 43.7201 L 47.3924 44.2046 L 46.8329 44.1536 L 46.3221 44.7039 L 47.1641 45.3764 L 46.7369 45.8045 L 46.1503 46.566 L 45.522 46.7758 L 45.279 47.5645 L 43.9495 47.3741 L 43.0224 47.2812 L 42.8228 48.4816 L 42.2586 49.2324 L 41.4066 49.5838 L 41.6024 50.857 L 41.6032 50.8594 L 41.9545 52.2672 L 41.2116 53.6952 L 41.1118 54.5009 L 41.6334 55.8933 L 41.1737 56.5257 L 41.3308 57.5829 L 41.2124 58.8306 L 40.6583 59.6053 L 40.6026 60.6718 L 39.4922 62.0031 L 39.4922 62.6664 L 39.4124 63.3885 L 38.9922 63.3181 L 38.5481 63.9272 L 39.5579 64.2027 L 40.3774 65.3296 L 41.2426 64.7894 L 42.0954 65.6416 L 43.2585 64.373 L 44.8325 64.8227 L 45.4322 64.3428 L 46.0064 64.8026 L 46.7114 64.3993 L 48.7752 64.3993 L 49.4175 65.6818 L 49.1188 67.0765 L 50.9513 67.1725 L 51.9264 66.8079 L 53.7271 68.729 L 53.9453 70.4859 L 57.7968 73.3744 L 59.3019 72.9727 L 60.2731 71.6778 L 61.7039 70.4851 L 63.8212 71.0726 L 65.56 71.9216 L 70.1404 71.8659 L 71.1766 72.557 L 72.3389 73.033 L 73.4997 72.9317 L 75.0466 71.4394 L 76.2291 71.1438 L 77.0447 71.0888 L 78.3308 70.4735 L 85.0981 70.5292 L 87.908 68.2135 L 89.1508 67.7793 L 90.1405 68.4596 L 90.7565 69.0765 L 91.097 71.3427 C 91.2892 71.8647 91.4677 72.0176 91.4677 72.0176 C 91.6341 72.1424 91.6922 72.3026 91.7122 72.4324 C 91.7178 72.4689 91.7134 72.5293 91.7114 72.5841 L 91.9722 73.7319 L 92.6308 74.2257 L 94.3278 79.1598 L 96.8854 76.6019 L 99.8121 73.7335 L 102.067 75.9889 L 112.529 76.1553 L 112.895 77.0717 L 113.66 77.7412 L 115.326 77.1498 L 116.982 77.4354 L 118.407 77.4865 L 118.749 76.9316 L 118.161 74.4711 L 117.401 72.8426 L 116.482 71.7072 L 115.54 70.9634 L 114.672 71.3721 L 113.172 71.4967 L 112.562 70.4 L 112.243 70.0354 L 110.746 69.9836 C 109.968 70.2558 109.806 70.2134 109.806 70.2134 C 109.764 70.2142 109.717 70.2115 109.672 70.2003 C 109.597 70.1816 109.533 70.1249 109.498 70.0842 C 109.464 70.0459 109.432 70.0001 109.403 69.9526 C 109.377 69.9095 109.35 69.8612 109.325 69.811 C 109.302 69.7657 109.279 69.7174 109.257 69.6678 C 109.257 69.6678 109.158 69.5452 108.862 68.619 L 108.853 68.5889 L 108.853 67.6113 C 108.853 67.4398 108.485 67.2437 107.886 67.0804 C 107.555 66.9901 107.127 66.7676 106.981 66.4751 L 105.597 63.8746 L 104.21 61.9311 L 102.853 59.7268 L 102.395 57.8406 L 102.284 55.826 L 102.117 54.5946 L 102.117 52.576 L 102.575 51.8315 L 103.082 49.7471 L 103.508 49.3191 L 103.508 48.4113 L 103.954 47.4639 L 103.954 46.3153 L 104.178 45.4175 L 104.282 43.8518 L 103.677 43.1908 L 103.562 39.9548 L 104.087 38.7311 L 104.095 38.7188 C 104.697 37.7347 104.802 37.6495 104.817 37.629 C 104.858 37.5736 104.898 37.5189 104.938 37.4665 C 104.982 37.4082 105.026 37.3524 105.069 37.3001 C 105.116 37.242 105.164 37.188 105.209 37.1398 C 105.317 37.0241 105.462 36.8968 105.6 36.8968 C 105.6 36.8968 105.859 36.9079 106.196 37.0485 L 107.558 36.3682 L 107.561 36.3658 L 108.642 35.718 L 108.93 35.3651 L 107.966 35.0756 L 107.911 33.0818 L 107.39 32.9665 L 107.623 30.4039 L 107.411 30.0324 L 107.213 28.3219 L 108.119 28.3219 L 108.626 27.6578 C 108.24 27.4834 107.995 27.4403 107.995 27.4403 C 107.627 27.4403 106.024 27.2731 105.545 27.2731 C 105.504 27.2731 105.451 27.2766 105.388 27.2832 C 105.331 27.2891 105.267 27.2975 105.198 27.308 C 105.136 27.3174 105.07 27.3282 105.002 27.3405 C 104.94 27.3515 104.877 27.3634 104.813 27.3761 C 104.673 27.4035 104.658 27.3824 103.621 27.65 C 102.931 28.1307 102.765 28.1895 102.765 28.1895 C 102.72 28.2144 102.675 28.2383 102.631 28.2599 C 102.583 28.2839 102.536 28.3056 102.491 28.3242 C 102.442 28.3447 102.392 28.3628 102.345 28.3745 C 102.303 28.385 102.244 28.3944 102.188 28.3873 C 102.289 28.42 102.601 28.5213 102.438 28.4736 Z M 47.0556 42.3567 L 47.0567 42.3564 L 47.0637 42.3541 L 47.0686 42.3501 C 47.0642 42.3521 47.06 42.3543 47.0557 42.3565 Z M 56.424 29.5161 L 56.7428 29.5494 L 56.8241 29.8087 L 56.5215 30.2483 L 56.5022 30.4921 L 56.335 30.4805 L 55.9845 30.0835 L 55.9512 29.801 L 56.3056 29.6826 Z"
+          id="Chua Chu Kang"
+        />
+        <path
+          id="Hong Kah"
+          d="M 89.0825 68.225 L 90.3811 69.2752 L 90.7086 71.4604 L 91.3258 72.6861 L 91.6153 73.9644 L 92.2909 74.4705 L 94.1599 79.8939 L 99.8106 74.295 L 101.785 76.2725 L 101.96 80.4732 L 100.708 80.2538 L 99.6 81.8188 L 99.366 82.6466 L 98.7635 83.3779 L 99.1964 84.0917 L 99.6117 84.8113 L 99.8603 85.2384 L 97.1958 85.3467 L 95.1806 87.3622 L 93.0192 87.1779 L 92.326 89.6937 L 91.124 91.443 L 89.1643 90.7029 L 88.8251 89.2958 L 88.0032 87.3944 L 85.8827 86.9702 L 85.7014 90.8696 L 81.8465 90.4659 L 81.9694 91.9988 L 80.5333 92.5107 L 78.135 94.1313 L 77.9858 92.2299 L 78.1087 91.1855 L 77.8688 90.5332 L 78.0238 89.6644 L 78.9422 89.1145 L 78.872 87.0609 L 77.5062 87.134 L 75.9999 87.6342 L 74.4761 85.8089 L 70.6183 88.6552 L 69.2261 86.5548 L 63.4818 82.357 L 62.2943 78.1534 L 63.0577 76.3076 L 63.3941 73.4028 L 63.3941 73.3938 L 63.8825 71.5479 L 65.4707 72.3231 L 70.0275 72.2646 L 72.2679 73.4405 L 73.6747 73.3177 L 75.2453 71.8024 L 76.2924 71.5421 L 77.1493 71.4807 L 78.4245 70.8722 L 85.2393 70.9308 L 88.1114 68.5672 Z"
+        />
+        <path
+          id="Boon Lay"
+          d="M 74.4117 86.353 L 75.8683 88.1023 L 77.588 87.5289 L 78.486 87.4822 L 78.5357 88.8922 L 77.6612 89.4129 L 77.4564 90.5713 L 77.6992 91.2324 L 77.5822 92.2182 L 77.7548 94.4005 L 76.8861 95.1522 L 73.7975 95.0498 L 73.4875 93.3941 L 70.8347 88.9945 Z"
+        />
+        <path
+          id="Bukit Gombak"
+          d="M 102.188 76.3895 L 112.258 76.5504 L 112.56 77.308 L 113.575 78.1973 L 115.362 77.5596 L 116.938 77.8316 L 118.626 77.893 L 119.062 77.1822 L 120.629 77.4045 L 121.15 79.6979 L 121.717 80.7598 L 123.048 82.7899 L 127.719 86.0195 L 128.804 87.3592 L 128.634 87.9677 L 126.859 90.0329 L 127.426 91.0217 L 126.97 91.9344 L 127.043 93.122 L 127.514 94.1342 L 127.383 95.313 L 126.947 97.4953 L 122.668 96.4715 L 122.209 94.7602 L 115.449 86.8883 L 113.82 87.1779 L 115.174 88.6873 L 113.58 90.5185 L 112.223 89.1583 L 110.898 89.3075 L 107.655 89.5853 L 106.078 90.0856 L 105.309 88.62 L 104.148 87.7483 L 102.478 87.2568 L 101.112 86.6074 L 100.375 85.3203 L 99.2519 83.413 L 99.7287 82.8338 L 99.9685 81.9972 L 100.89 80.6925 L 102.381 80.9529 Z"
+        />
+        <path
+          id="Bukit Batok"
+          d="M 100.088 85.6275 L 100.828 86.9175 L 102.341 87.6342 L 103.967 88.111 L 104.996 88.8833 L 105.733 90.2962 L 104.824 91.2616 L 102.732 90.4776 L 100.349 90.1968 L 98.4973 90.5507 L 97.6521 91.0714 L 96.0083 90.5449 L 93.8323 90.2728 L 92.7443 89.679 L 93.3175 87.605 L 95.3298 87.7776 L 97.3654 85.7386 Z"
+        />
+        <path
+          d="M 86.2605 87.4546 L 87.7184 87.7464 L 88.4459 89.4251 L 88.8235 91.0002 L 91.2751 91.9282 L 92.5728 90.0396 L 93.7065 90.6604 L 95.9189 90.9375 L 97.4697 91.4336 L 97.4233 92.2331 L 94.6049 94.8267 L 94.6096 94.9204 C 94.6551 95.9275 94.6196 95.9234 94.6196 95.9234 C 94.6176 95.9679 94.6155 96.0088 94.6126 96.0465 C 94.6115 96.0611 94.6099 96.0706 94.6087 96.0836 C 94.5157 96.0525 94.2773 95.9623 93.7126 95.7346 L 87.6943 91.0535 L 86.101 90.908 Z"
+          id="Yuhua"
+        />
+        <path
+          id="Bukit Timah"
+          d="M 115.294 87.3212 L 121.846 94.9562 L 122.305 96.6587 L 121.939 100.666 L 119.582 100.614 L 119.825 101.646 L 118.392 103.369 L 117.374 103.369 L 115.362 103.846 L 111.826 105.361 L 112.905 106.607 L 111.282 107.886 L 111.282 109.752 L 110.682 109.928 L 110.147 109.123 L 110.141 109.117 L 109.544 107.789 L 108.038 109.907 L 107.535 110.998 L 103.49 106.505 L 98.5646 105.297 L 98.1259 102.459 L 94.7916 99.9845 L 96.7717 97.6736 L 95.6106 96.5152 L 94.9496 96.2636 L 95.0052 94.9999 L 97.8129 92.4198 L 97.8714 91.4076 L 98.6436 90.9308 L 100.36 90.6003 L 102.639 90.8694 L 104.935 91.7294 L 106.09 90.5037 L 107.734 89.9772 L 112.077 89.5764 L 113.601 91.1034 L 115.71 88.6813 L 114.598 87.4439 Z"
+        />
+        <path
+          id="Ayer Rajah"
+          d="M 89.8926 103.004 L 93.0982 103.211 L 95.8621 105.092 L 98.3394 105.651 L 103.271 106.862 L 107.444 111.499 L 111.22 115.313 L 111.232 115.5 L 109.843 116.293 L 108.851 115.252 L 107.623 115.319 L 107.514 116.934 L 105.283 114.175 L 101.75 116.58 L 104.332 122.319 L 104.154 123.036 L 100.053 123.062 L 96.9647 122.319 L 96.8741 121.804 L 97.3888 121.319 L 97.5438 120.652 L 96.2832 120.122 L 94.3792 121.845 L 87.0117 119.844 L 86.4472 117.402 L 88.1991 117.884 L 89.4042 117.2 L 85.912 115.755 L 85.4966 112.941 L 89.0298 107.532 Z"
+        />
+        <path
+          d="M 171.417 174.953 C 171.478 174.986 171.538 175.025 171.592 175.065 C 171.649 175.107 171.709 175.155 171.769 175.206 C 171.824 175.252 171.879 175.301 171.935 175.352 C 172.035 175.444 172.138 175.544 172.237 175.644 C 172.305 175.712 172.446 175.823 172.99 176.454 L 172.999 176.466 L 173.533 177.305 C 174.09 177.258 174.186 177.27 174.186 177.27 C 174.186 177.27 174.249 177.269 174.354 177.245 C 173.998 177.015 174.074 176.799 174.074 176.799 C 174.074 176.799 174.113 176.708 174.112 176.206 L 174.112 176.184 L 174.347 175.126 L 175.11 175.608 L 174.805 175.175 C 174.466 175.004 174.413 174.78 174.413 174.78 C 174.413 174.78 174.409 174.769 174.4 174.751 C 174.391 174.732 174.378 174.708 174.362 174.679 C 174.347 174.654 174.331 174.626 174.312 174.596 C 174.312 174.596 174.305 174.551 173.898 173.984 L 173.073 173.81 L 172.738 173.014 L 171.799 172.85 L 170.87 171.637 L 170.444 171.78 L 169.66 171.574 L 169.287 171.769 L 170.065 171.991 L 170.504 172.771 L 170.629 173.738 C 170.834 174.045 170.928 174.372 171.001 174.595 C 171.076 174.826 171.111 174.868 171.152 174.868 C 171.193 174.868 171.238 174.878 171.284 174.894 C 171.329 174.908 171.374 174.929 171.417 174.953 Z M 170.241 180.093 L 170.241 180.095 L 170.241 180.094 L 170.241 180.093 Z M 135.871 131.985 L 139.428 132.125 L 139.908 132.458 L 143.316 132.458 L 144.042 132.977 L 144.05 132.982 C 146.411 134.351 145.745 133.941 145.795 133.968 C 145.855 134 145.909 134.028 145.951 134.049 C 145.998 134.072 146.042 134.093 146.082 134.103 C 146.082 134.103 146.08 134.102 146.095 134.11 C 146.11 134.117 146.128 134.127 146.15 134.141 C 146.15 134.141 146.193 134.143 146.665 134.522 L 146.665 135.128 C 146.293 135.681 146.241 135.694 146.241 135.694 C 146.223 135.714 146.208 135.728 146.196 135.739 C 146.183 135.75 146.188 135.748 146.188 135.748 C 146.14 135.772 146.099 135.814 146.075 135.844 C 146.053 135.872 146.031 135.903 146.012 135.935 C 146.012 135.935 145.91 136.054 145.699 136.706 L 144.377 138.387 L 142.816 139.539 L 141.965 141.495 L 142.8 141.692 L 143.584 142.084 L 144.244 142.415 L 147.303 144.11 L 148.948 144.846 L 151.265 144.924 L 151.208 145.79 L 148.438 145.712 L 147.169 145.302 L 146.39 145.006 L 145.718 144.405 L 144.002 143.882 L 143.183 143.51 L 141.572 143.221 L 141.046 144.462 L 139.897 144.514 L 136.438 140.961 L 136.718 137.547 L 137.065 136.805 L 136.855 134.708 L 136.431 134.471 L 136.431 133.803 L 135.761 132.797 Z M 155.109 146.585 L 156.081 146.74 L 157.27 146.939 L 157.601 147.343 L 158.735 148.738 L 159.448 148.962 L 159.913 149.212 L 160.177 149.89 L 160.309 150.418 L 158.606 151.591 L 157.222 151.179 L 156.857 150.45 L 155.526 150.679 L 153.888 150.319 L 153.041 149.599 L 151.314 149.318 L 151.169 148.512 L 151.763 148.512 L 152.384 147.981 L 154.018 147.353 Z M 147.374 148.474 L 147.409 149.24 L 151.155 151.092 L 152.709 152.473 L 157.003 152.515 L 158.537 153.054 L 158.543 153.055 C 159.49 153.332 159.464 153.3 159.464 153.3 C 159.507 153.31 159.548 153.319 159.587 153.326 C 159.629 153.335 159.669 153.343 159.705 153.348 C 159.744 153.354 159.785 153.358 159.82 153.358 C 159.869 153.358 159.922 153.346 159.963 153.332 C 160.002 153.32 160.044 153.304 160.086 153.286 C 160.124 153.27 160.163 153.252 160.204 153.232 C 160.204 153.232 160.315 153.208 161.001 152.776 L 162.149 152.915 L 162.149 154.432 L 161.974 154.989 L 161.025 155.377 L 160.976 155.815 L 160.65 156.214 L 160.289 156.472 L 160.416 158.968 L 159.477 159.763 L 158.256 159.438 L 157.277 159.764 L 156.084 160.773 L 156.046 162.017 L 155.555 162.017 L 155.555 161.176 L 154.819 160.992 L 154.406 160.164 L 153.388 160.474 L 151.54 158.661 L 151.831 158.68 L 151.89 157.965 L 151.843 156.845 L 149.325 155.032 L 147.934 154.81 L 148.09 155.511 L 147.577 155.34 L 146.911 154.757 L 146.002 154.362 L 145.793 153.565 L 144.738 153.06 L 144.072 152.764 L 143.861 151.711 L 143.02 151.337 L 143.017 151.336 L 141.843 150.721 L 141.843 151.534 L 141.159 151.429 L 141.239 150.267 L 139.49 149.25 L 139.715 148.851 L 142.708 148.89 L 142.962 149.498 L 143.504 149.137 L 145.173 148.904 L 145.731 149.461 L 146.69 148.742 Z M 159.98 166.87 L 160.36 168.006 L 160.924 168.664 L 161.727 168.971 L 161.727 169.629 L 160.865 169.413 L 160.316 168.669 L 160.314 168.666 C 159.861 168.1 159.851 167.982 159.851 167.982 C 159.845 167.969 159.843 167.963 159.839 167.953 C 159.859 167.923 159.872 167.891 159.88 167.865 C 159.893 167.817 159.895 167.768 159.894 167.724 C 159.894 167.685 159.89 167.643 159.884 167.602 C 159.884 167.602 159.853 167.381 159.699 166.923 Z M 173.65 167.807 L 173.689 169.135 L 173.151 169.707 L 172.007 170.03 L 171.998 170.014 L 172.581 169.515 L 172.328 169.009 L 172.306 168.985 C 172.257 168.936 172.199 168.904 172.144 168.868 L 172.183 168.881 L 173.13 168.361 Z M 170.189 168.295 C 170.189 168.295 170.386 168.241 170.757 168.457 L 170.782 168.471 L 171.423 168.632 C 171.254 168.64 170.865 168.699 170.435 169.057 L 170.406 169.081 L 170.298 169.275 L 170.252 169.081 C 170.186 168.805 170.183 168.651 170.183 168.651 C 170.163 168.432 170.189 168.295 170.189 168.295 Z M 168.986 169.064 L 169.248 169.423 L 170.283 169.302 L 169.829 170.113 L 169.642 170.207 L 168.919 169.794 L 168.766 169.304 Z M 175.545 172.07 L 176.208 172.181 L 177.01 172.823 L 177.404 173.181 L 177.441 173.775 L 177.479 175.023 L 176.95 175.254 L 176.692 175.297 L 176.658 174.476 L 176.216 174.035 L 175.532 173.471 L 175.028 172.21 Z M 165.109 173.721 L 166.053 173.861 L 166.407 174.525 L 167.446 174.395 L 167.857 174.888 L 168.702 174.888 L 168.99 175.217 L 169.74 175.296 L 169.9 175.775 L 169.171 176.179 L 169.277 177.186 L 169.804 177.674 L 169.751 178.131 L 168.967 178.217 L 170.386 179.126 C 170.272 179.788 170.229 180.067 170.229 180.099 C 170.211 180.11 170.08 180.155 169.836 180.211 L 169.836 178.941 L 169.229 179.093 L 168.697 178.141 L 167.471 177.125 L 166.796 176.027 L 165.54 175.073 L 165.534 175.07 C 165.027 174.732 164.876 174.526 164.876 174.526 C 164.838 174.48 164.82 174.446 164.82 174.446 L 164.818 174.436 L 164.721 174.08 Z M 156.842 178.272 C 157.118 178.409 157.204 178.439 157.204 178.439 C 157.231 178.449 157.26 178.459 157.286 178.465 C 157.286 178.465 157.369 178.495 157.499 178.565 L 157.263 179.089 L 156.893 178.997 Z M 158.628 179.125 C 159.178 179.667 159.23 179.686 159.23 179.686 C 159.263 179.715 159.296 179.742 159.326 179.765 C 159.358 179.79 159.393 179.815 159.422 179.833 C 159.54 179.903 159.58 180.152 159.623 180.41 C 159.623 180.41 159.586 180.418 159.555 180.424 L 158.567 179.986 L 158.567 181.176 L 158.178 181.154 L 157.777 180.351 Z"
+          id="Telok Blangah"
+        />
+        <path
+          id="Brickworks"
+          d="M 134.46 115.723 L 134.844 116.182 L 135.47 116.337 L 135.625 116.782 L 135.917 116.951 L 135.777 120.441 L 136.306 120.813 L 136.955 121.834 L 137.011 121.857 C 137.898 122.263 138.061 122.338 138.146 122.378 C 138.094 122.338 138.089 122.332 138.181 122.395 L 138.146 122.378 C 138.149 122.381 138.151 122.384 138.155 122.387 C 138.155 122.387 138.176 122.396 138.19 122.402 C 138.296 122.476 138.562 122.668 139.503 123.364 L 139.52 123.376 L 140.687 123.903 L 142.498 124.002 L 142.434 125.073 L 141.799 125.219 L 141.881 126.149 L 140.734 126.331 L 140.553 126.769 L 140.029 126.026 L 137.643 123.399 L 136.888 124.292 L 137.695 124.906 L 137.897 125.611 L 137.941 126.105 L 137.713 126.334 L 137.265 126.155 L 137.301 126.784 L 134.774 126.468 L 138.69 130.745 L 139.251 129.73 L 139.892 129.227 L 140.167 128.682 L 141.392 128.639 L 141.313 129.203 L 141.737 129.227 L 141.556 129.741 L 140.799 129.958 L 141.407 130.827 L 143.463 130.85 L 143.217 132.061 L 140.035 132.061 L 139.561 131.731 L 135.73 131.581 L 134.873 131.324 L 134.589 130.713 L 134.151 130.49 L 134.057 124.885 L 133.58 124.148 L 132.495 122.914 L 131.422 122.019 L 131.752 120.989 L 131.223 120.199 L 130.834 119.126 L 129.872 117.97 L 129.579 116.943 L 128.968 116.335 L 129.281 116.072 L 130.079 116.78 L 130.571 117.327 L 130.913 117.912 L 131.741 118.029 L 132.325 117.18 L 132.72 117.072 L 133.408 116.384 L 133.963 116.481 L 134.262 115.761 Z"
+        />
+        <path
+          d="M 142.352 105.436 C 142.35 105.436 142.348 105.436 142.346 105.436 L 142.335 105.44 L 142.34 105.44 C 142.341 105.44 142.343 105.44 142.345 105.44 C 142.367 105.442 142.396 105.445 142.436 105.451 C 142.471 105.457 142.511 105.464 142.556 105.473 C 142.597 105.481 142.64 105.49 142.686 105.5 C 142.686 105.5 142.716 105.487 143.576 105.723 L 143.813 106.131 L 143.794 106.752 L 143.197 106.628 L 142.803 107.599 L 141.985 107.982 L 140.983 108.44 L 138.029 111.197 L 137.164 114.118 L 136.665 114.152 L 136.532 113.592 L 135.407 113.503 L 134.98 113.049 L 133.954 112.726 L 133.346 112.548 L 132.918 113.13 L 132.918 113.158 C 132.915 113.159 132.912 113.159 132.907 113.16 C 132.898 113.162 132.885 113.163 132.869 113.163 C 132.651 113.163 133.297 113.183 131.734 113.137 L 130.878 112.592 L 130.369 112.119 L 128.471 113.827 L 129.054 115.741 L 128.61 116.113 L 127.462 115.985 L 126.627 115.057 L 124.12 113.238 L 122.569 112.587 L 120.08 112.348 L 119.734 112.06 L 122.615 112.271 L 122.664 110.899 L 123.565 110.899 L 123.465 109.951 L 124.207 109.852 L 123.949 108.436 L 123.114 108.332 L 122.71 107.793 L 121.427 106.869 L 119.462 106.753 L 119.552 107.201 L 117.59 106.827 L 117.536 107.471 L 116.506 107.619 L 116.506 108.058 L 115.288 107.947 L 115.168 106.783 L 116.54 104.907 L 118.376 104.259 L 118.657 103.681 L 120.263 101.752 L 120.092 101.023 L 122.304 101.074 L 122.685 96.8889 L 127.037 97.9283 L 129.571 98.9825 L 133.219 100.319 L 136.755 101.506 L 139.365 103.265 C 140.789 104.425 140.201 103.944 140.825 104.434 C 141.006 104.576 141.186 104.716 141.352 104.844 C 141.445 104.915 141.534 104.982 141.617 105.044 C 141.709 105.112 141.794 105.174 141.869 105.227 C 141.951 105.286 142.024 105.335 142.081 105.37 C 142.137 105.404 142.238 105.475 142.352 105.436 Z"
+          id="Ulu Pandan"
+        />
+        <path
+          id="Buona Vista"
+          d="M 130.363 112.66 L 130.632 112.909 L 131.623 113.54 L 133.226 113.385 L 133.504 113.011 L 134.759 113.394 L 135.221 113.889 L 136.21 113.967 L 136.356 114.573 L 137.087 114.523 L 137.061 114.734 L 136.61 114.86 L 136.464 115.617 L 135.955 115.749 L 135.935 116.46 L 135.774 116.004 L 135.066 115.825 L 134.616 115.284 L 133.975 115.41 L 133.718 116.03 L 133.27 115.957 L 132.518 116.712 L 132.08 116.828 L 131.553 117.595 L 131.158 117.542 L 130.892 117.083 L 130.369 116.498 L 129.456 115.696 L 128.927 113.956 Z"
+        />
+        <path
+          d="M 121.407 135.803 C 121.286 135.724 121.569 135.887 123.786 137.229 L 125.44 138.251 L 127.264 139.515 C 128.027 139.347 128.188 139.381 128.188 139.381 C 128.328 139.381 128.458 139.458 128.579 139.542 C 128.629 139.577 128.679 139.615 128.73 139.656 C 128.776 139.694 128.823 139.733 128.87 139.775 C 128.87 139.775 129.077 139.914 129.69 140.604 L 130.545 140.727 C 130.961 140.301 131.24 140.302 131.24 140.302 C 131.24 140.302 131.537 140.283 132.002 140.69 L 132.066 140.746 L 132.111 141.689 L 133.13 141.866 L 133.646 142.381 L 134.707 143.106 L 134.717 143.115 C 135.074 143.437 135.251 143.537 135.251 143.537 C 135.308 143.574 135.352 143.598 135.384 143.611 C 135.384 143.611 135.72 143.676 135.744 144.809 L 138.31 146.888 L 138.481 146.601 L 138.916 145.781 L 139.564 144.744 L 136.024 141.109 L 136.325 137.445 L 136.657 136.734 L 136.565 135.435 L 136.486 134.961 L 136.031 134.707 L 136.031 133.924 L 135.344 132.893 L 135.477 131.921 L 134.585 131.654 L 134.286 131.006 L 133.755 130.741 L 133.658 125.006 L 133.262 124.39 L 132.212 123.198 L 130.96 122.154 L 131.312 121.052 L 130.867 120.385 L 130.484 119.329 L 129.509 118.161 L 129.221 117.152 L 128.581 116.512 L 127.267 116.366 L 126.357 115.356 L 123.921 113.588 L 122.47 112.979 L 119.919 112.734 L 118.522 111.569 L 122.231 111.841 L 122.279 110.5 L 123.121 110.5 L 123.027 109.606 L 123.739 109.511 L 123.609 108.796 L 122.895 108.707 L 122.422 108.076 L 121.869 107.616 L 121.294 107.261 L 119.956 107.183 L 120.061 107.705 L 117.952 107.303 L 117.909 107.823 L 116.905 107.966 L 116.905 108.496 L 114.925 108.316 L 114.754 106.67 L 116.29 104.571 L 118.107 103.929 C 118.162 103.853 118.222 103.774 118.268 103.707 C 118.217 103.693 118.163 103.674 117.997 103.676 C 117.776 103.679 117.532 103.706 117.341 103.727 C 116.619 103.808 115.828 104.172 115.467 104.232 L 115.476 104.229 L 115.5 104.222 L 115.503 104.222 L 112.486 105.514 L 113.481 106.66 L 111.679 108.08 L 111.679 110.053 L 110.512 110.397 L 109.798 109.326 L 109.467 108.589 L 108.384 110.106 L 107.826 111.315 L 111.606 115.136 L 111.646 115.724 L 109.768 116.797 L 108.686 115.661 L 107.997 115.699 L 107.845 117.975 L 105.202 114.713 L 103.641 115.758 L 105.111 118.608 L 105.949 120.421 L 107.01 120.759 L 108.087 122.91 C 109.544 123.669 109.637 123.726 109.571 123.697 C 109.613 123.722 109.556 123.695 109.519 123.677 C 109.568 123.715 109.604 123.764 109.63 123.807 C 109.657 123.853 109.68 123.906 109.699 123.959 C 109.717 124.007 109.734 124.059 109.748 124.113 C 109.774 124.209 109.797 124.316 109.816 124.423 C 109.816 124.423 109.874 124.745 109.916 125.228 L 112.715 127.42 L 113.551 127.524 L 113.808 128.14 L 115.368 128.85 L 115.992 129.474 L 117.225 129.918 L 117.815 130.851 L 120.214 132.074 L 121.491 132.381 L 122.262 133.816 L 121.385 135.405 L 120.848 135.476 L 120.966 135.692 C 121.405 135.862 121.596 135.942 121.678 135.978 C 121.559 135.904 121.298 135.742 121.407 135.803 Z M 116.598 136.026 C 116.597 136.023 116.597 136.021 116.597 136.019 C 116.6 136.02 116.604 136.021 116.607 136.023 C 116.603 136.023 116.597 136.022 116.59 136.022 C 116.597 136.07 116.602 136.128 116.602 136.2 C 116.602 136.2 116.596 136.285 116.597 136.299 L 115.373 135.88 L 113.587 134.848 L 111.845 134.571 L 110.16 133.808 L 109.953 133.849 L 108.982 133.513 L 107.242 132.92 L 106.794 132.816 L 106.083 131.829 L 105.728 131.764 C 105.705 131.769 106.007 131.739 106.007 131.739 C 106.07 131.739 106.204 131.749 106.347 131.752 C 106.322 131.788 106.296 131.825 106.296 131.874 C 106.296 131.918 106.319 131.987 106.333 132.014 C 106.347 132.042 106.365 132.071 106.383 132.099 C 106.383 132.099 106.353 132.136 106.923 132.739 L 106.97 132.787 L 108.938 133.116 L 108.879 132.295 L 108.794 131.933 L 109.712 132.171 L 110.344 132.204 L 110.401 132.374 L 109.553 132.75 L 110.515 133.5 L 111.012 133.954 L 112.054 134.361 L 112.632 133.938 L 114.153 134.735 L 114.776 135.281 L 115.807 135.899 L 115.843 135.906 C 116.395 136.003 116.558 136.025 116.598 136.026 Z M 108.08 168.764 C 108.076 168.766 108.078 168.768 108.078 168.768 C 108.058 168.765 108.05 168.764 108.046 168.764 C 108.046 168.764 107.978 168.779 107.919 168.848 L 107.742 169.243 L 107.372 169.921 L 107.163 170.86 L 107.506 170.988 L 108.583 171.403 C 109.385 171.526 109.437 171.586 109.437 171.586 C 109.473 171.598 109.508 171.611 109.539 171.625 C 109.658 171.679 109.752 171.73 109.859 171.795 L 112.78 171.674 L 112.973 171.395 L 113.386 171.072 L 114.105 170.658 L 114.308 170.575 L 114.152 170.053 L 112.157 169.084 C 110.477 169.218 110.07 169.255 109.997 169.266 C 110.012 169.267 110.037 169.266 110.008 169.269 C 110.005 169.27 110.001 169.27 109.998 169.271 C 110.014 169.271 110.033 169.271 110.009 169.273 C 109.94 169.281 109.884 169.288 109.843 169.294 C 109.838 169.294 109.834 169.295 109.83 169.296 C 109.827 169.296 109.823 169.297 109.82 169.297 C 109.818 169.298 109.814 169.298 109.812 169.298 C 109.809 169.299 109.808 169.299 109.806 169.3 C 109.803 169.3 109.807 169.298 109.813 169.294 L 109.815 169.294 C 109.747 169.327 109.683 169.315 109.656 169.311 C 109.628 169.306 109.595 169.297 109.564 169.288 C 109.536 169.28 109.506 169.27 109.475 169.259 C 109.475 169.259 109.465 169.282 108.754 168.962 C 108.447 168.857 108.278 168.806 108.187 168.782 C 108.147 168.774 108.141 168.776 108.141 168.776 C 108.117 168.771 108.097 168.767 108.08 168.764 Z M 100.087 170.992 C 100.275 171.038 100.855 171.149 100.979 171.166 C 100.979 171.166 101.197 171.181 101.375 171.194 C 101.374 171.176 101.381 171.105 101.381 171.105 C 101.38 171.098 101.379 171.092 101.378 171.086 C 101.378 171.081 101.377 171.076 101.376 171.071 C 101.376 171.068 101.375 171.067 101.374 171.064 C 101.161 170.996 100.968 170.807 100.846 170.807 C 100.528 170.807 99.7032 169.919 99.5218 169.81 C 99.5125 169.805 99.5017 169.803 99.5017 169.803 C 99.4116 169.815 99.322 169.955 99.1527 169.983 C 99.1357 169.986 98.9122 170.242 98.8222 170.38 C 98.825 170.383 98.8277 170.386 98.8308 170.389 C 98.8718 170.428 98.9236 170.469 98.9824 170.512 C 98.9844 170.513 99.0513 170.571 99.2742 170.701 C 100.053 170.969 100.12 170.998 100.085 170.99 L 100.087 170.992 Z M 102.246 172.439 C 102.249 172.481 102.264 172.109 102.225 173.078 L 102.224 173.111 L 102.212 173.143 C 102.156 173.286 102.103 173.386 102.053 173.463 C 102.091 173.481 102.086 173.483 102.188 173.522 L 102.495 173.509 L 102.537 173.077 L 103.378 172.996 L 103.318 172.558 L 102.925 172.459 L 102.757 171.979 C 102.687 171.905 102.677 171.898 102.624 171.849 C 102.581 171.809 102.54 171.775 102.504 171.749 C 102.5 171.747 102.498 171.745 102.495 171.743 C 102.488 171.747 102.391 171.813 102.281 171.893 C 102.245 172.361 102.245 172.412 102.246 172.417 C 102.247 172.4 102.248 172.389 102.246 172.439 Z M 101.84 173.665 L 101.843 173.664 L 101.844 173.663 L 101.84 173.665 Z M 106.608 177.556 C 106.612 177.624 106.621 177.786 106.641 178.124 L 106.729 178.191 L 106.747 177.559 C 106.738 177.56 106.689 177.557 106.682 177.557 C 106.657 177.558 106.633 177.559 106.61 177.56 L 106.61 177.556 L 106.61 177.556 L 106.608 177.556 Z M 125.319 179.044 L 125.324 179.044 C 125.333 179.059 125.338 179.069 125.346 179.082 L 125.625 179.082 C 125.625 179.082 125.917 179.053 125.934 179.055 C 125.61 179.048 125.371 179.044 125.318 179.043 L 125.319 179.044 Z M 88.408 185.426 C 88.3882 185.4 88.3696 185.373 88.3561 185.346 C 88.3561 185.346 88.3737 185.376 88.3993 185.421 C 88.3817 185.397 88.3653 185.373 88.353 185.348 C 88.353 185.348 88.6992 185.95 88.5555 185.689 C 88.6163 185.793 88.6242 185.802 88.434 185.463 C 88.4364 185.466 88.4388 185.468 88.4412 185.471 C 88.4707 185.504 88.5062 185.538 88.5434 185.572 C 88.577 185.603 88.6139 185.636 88.6525 185.668 C 88.6525 185.668 88.7296 185.768 89.4325 186.244 L 89.3567 186.887 L 88.2362 186.839 L 88.2098 186.845 C 87.2162 187.07 87.0056 187.107 86.9768 187.105 C 86.9831 187.102 86.9957 187.098 86.9957 187.098 C 86.9893 187.099 86.983 187.1 86.9768 187.101 C 86.9831 187.098 86.9949 187.094 86.9949 187.094 C 86.9493 187.102 86.9093 187.108 86.8765 187.112 C 86.8384 187.117 86.8208 187.118 86.8068 187.118 C 86.7496 187.118 86.6907 187.136 86.6459 187.153 C 86.6042 187.169 86.5592 187.191 86.5143 187.215 C 86.4736 187.236 86.4305 187.261 86.3866 187.287 C 86.3471 187.311 86.3065 187.336 86.2651 187.363 C 86.2651 187.363 86.0547 187.49 85.5424 187.881 L 84.1131 187.51 L 80.705 187.226 L 79.4638 187.79 C 78.6473 187.886 78.4429 187.903 78.4054 187.902 C 78.4126 187.9 78.4229 187.899 78.4229 187.899 C 78.4149 187.899 78.4074 187.899 78.4004 187.9 C 78.4062 187.897 78.4222 187.895 78.4222 187.895 C 78.3887 187.897 78.3644 187.898 78.3471 187.898 C 78.3471 187.898 78.3318 187.895 78.286 187.882 C 78.2433 187.871 78.1905 187.855 78.1265 187.834 C 78.0694 187.815 78.0053 187.793 77.9362 187.769 C 77.874 187.746 77.8082 187.722 77.7396 187.697 C 77.4211 187.579 77.8517 187.769 76.308 187.133 L 76.2747 187.119 L 76.2383 187.118 C 75.1049 187.084 75.4321 187.088 74.7974 187.047 C 74.5958 187.034 74.3832 187.019 74.1675 187.002 C 73.898 186.981 73.6236 186.957 73.3581 186.929 C 73.2106 186.913 73.0662 186.896 72.9271 186.878 C 72.7725 186.858 72.6251 186.836 72.4875 186.813 C 72.3345 186.788 72.1948 186.76 72.0727 186.731 C 71.9772 186.709 71.9123 186.686 71.8437 186.663 L 71.6703 185.712 L 72.5432 185.324 L 74.1319 184.302 L 75.3631 183.072 L 76.9015 181.917 L 78.0306 181.273 L 79.7795 180.89 L 82.1242 180.399 L 85.5307 181.389 L 86.7511 181.694 L 87.0637 183.05 L 87.0777 183.075 C 87.8087 184.364 88.2064 185.067 88.408 185.426 Z M 119.623 184.109 C 119.705 184.155 119.833 184.23 120.132 184.418 L 120.198 184.46 L 120.252 184.662 C 120.416 184.728 120.571 184.772 120.692 184.789 L 120.613 183.718 L 120.298 183.598 L 119.582 183.36 L 118.196 183.506 L 118.189 183.689 C 118.723 183.742 118.983 183.754 118.983 183.754 C 119.025 183.756 119.064 183.757 119.099 183.757 C 119.287 183.757 119.439 183.806 119.512 183.948 C 119.522 183.968 119.53 183.987 119.535 184.005 C 119.54 184.022 119.543 184.038 119.544 184.052 C 119.545 184.057 119.545 184.061 119.546 184.065 C 119.562 184.074 119.587 184.088 119.622 184.109 Z M 85.6679 200.134 C 85.6722 200.134 85.6762 200.135 85.6801 200.135 L 85.6817 200.135 C 85.6688 200.172 85.6067 200.351 85.5809 200.42 C 85.5934 200.378 85.6215 200.289 85.6732 200.131 C 85.6692 200.13 85.6651 200.13 85.6606 200.129 C 85.6606 200.129 85.5648 200.129 85.3851 200.05 L 85.2675 199.997 L 84.7305 200.475 L 83.2795 200.419 L 82.0406 201.601 L 80.8837 201.767 L 79.9852 202.441 L 79.6587 200.762 L 79.5418 199.354 L 79.1487 199.018 L 79.0744 198.386 L 79.6339 198.422 L 79.9914 198.899 L 81.9934 198.413 L 83.1031 197.63 L 82.5281 196.287 L 83.466 196.508 L 83.069 195.542 L 83.5596 195.634 L 84.2963 196.088 L 86.4159 196.199 L 86.9916 196.513 L 87.822 196.927 L 87.4382 197.738 L 86.3122 198.188 L 86.2828 198.276 C 85.9524 199.268 85.7663 199.831 85.6677 200.134 Z M 93.4116 209.415 C 93.4173 209.249 93.414 209.289 93.4097 209.365 C 93.4154 209.174 93.3969 209.55 93.3969 209.528 C 93.3969 209.506 93.4001 209.478 93.405 209.45 C 93.4026 209.494 93.4008 209.53 93.4008 209.528 C 93.4008 209.511 93.4028 209.489 93.4062 209.467 C 93.3986 209.679 93.3801 210.144 93.3412 211.076 L 93.2917 211.961 L 92.4645 212.375 L 92.0156 212.241 L 90.8827 211.466 L 90.0175 211.923 L 89.814 211.474 L 88.9698 210.574 L 88.606 209.949 L 88.2694 208.77 L 87.5761 207.825 L 86.4416 207.825 L 86.4006 206.879 L 88.8962 205.912 L 90.4261 206.95 L 93.1485 206.724 L 94.0183 206.826 L 94.8998 207.511 L 94.8998 207.847 L 94.0199 207.95 L 93.9727 208.05 C 93.457 209.134 93.5099 209.11 93.5099 209.11 C 93.4915 209.159 93.4744 209.205 93.4596 209.248 C 93.4433 209.297 93.4292 209.344 93.4186 209.385 C 93.4162 209.395 93.4139 209.405 93.4116 209.415 Z M 109.562 161.979 L 110.928 162.434 L 111.767 163.273 C 112.331 163.837 112.596 163.861 112.596 163.861 C 112.599 163.862 112.609 163.864 112.631 163.875 C 112.672 163.894 112.721 163.925 112.782 163.968 C 112.782 163.968 112.972 164.091 113.317 164.436 L 113.329 164.447 L 113.341 164.456 C 114.313 165.163 114.378 165.157 114.378 165.157 C 114.391 165.164 114.403 165.171 114.415 165.179 L 114.481 166.107 L 115.493 166.321 L 119.148 169.785 L 119.678 171.375 L 120.451 172.241 L 120.253 172.839 L 117.668 172.385 L 117.661 172.384 L 116.461 172.127 L 116.419 171.273 L 115.89 170.111 L 115.831 170.079 C 114.095 169.146 114.83 169.538 114.076 169.115 C 113.861 168.994 113.647 168.873 113.45 168.759 C 113.341 168.696 113.237 168.636 113.141 168.578 C 113.034 168.515 112.936 168.455 112.851 168.403 C 112.757 168.344 112.682 168.294 112.626 168.255 C 112.566 168.212 112.572 168.227 112.572 168.227 C 112.519 168.121 112.408 168.09 112.34 168.071 C 112.277 168.054 112.197 168.04 112.109 168.028 C 112.03 168.017 111.94 168.007 111.844 167.999 C 111.757 167.991 111.664 167.985 111.568 167.978 C 111.481 167.973 111.391 167.967 111.298 167.963 C 111.132 167.955 110.96 167.949 110.791 167.944 C 110.329 167.93 110.507 167.925 109.551 167.924 L 108.353 167.081 L 107.934 165.499 L 107.699 164.747 L 107.699 162.838 L 108.021 162.155 Z M 96.4389 164.209 C 97.8296 164.477 97.6115 164.424 97.8698 164.465 C 97.9377 164.476 98.002 164.486 98.0609 164.495 C 98.1264 164.504 98.1857 164.512 98.2366 164.518 C 98.2919 164.524 98.347 164.528 98.3828 164.528 C 98.4206 164.528 98.4673 164.525 98.5167 164.52 C 98.5616 164.515 98.6135 164.508 98.6684 164.5 C 98.7179 164.493 98.7707 164.484 98.8263 164.475 C 98.9028 164.463 98.8614 164.488 99.977 164.258 L 100.961 164.652 L 101.482 165.788 L 101.12 166.15 L 99.6365 166.48 L 98.3736 167.358 L 95.8245 167.411 L 95.1257 166.962 L 94.3728 165.995 L 94.1344 165.586 L 95.0793 165.406 Z M 105.731 164.785 C 105.731 164.785 105.83 164.793 106.113 164.85 L 106.493 165.467 L 106.712 166.263 L 106.854 167.762 L 106.731 168.131 L 106.348 168.608 L 105.591 169.166 L 105.382 168.93 L 105.382 168.302 L 104.817 167.83 L 104.816 167.829 L 104.362 167.394 L 104.187 166.126 L 104.495 166.084 L 104.443 165.54 L 104.649 165.319 L 105.053 165.127 L 105.322 164.82 C 105.671 164.784 105.731 164.785 105.731 164.785 Z M 100.146 171.875 C 100.146 171.875 100.19 171.887 100.512 171.93 L 100.692 172.138 L 100.708 172.467 L 100.533 172.913 L 100.318 173.376 L 99.5653 173.376 L 99.2728 172.93 C 99.351 172.6 99.378 172.52 99.378 172.52 C 99.3812 172.511 99.3827 172.508 99.3827 172.508 C 99.4495 172.374 99.3633 172.149 99.32 171.998 C 99.6085 171.958 100.127 171.87 100.146 171.875 Z M 114.508 172.27 C 114.512 172.27 114.516 172.271 114.52 172.271 C 114.525 172.271 114.529 172.271 114.533 172.272 L 114.535 172.272 C 114.522 172.256 114.575 172.346 114.704 172.556 L 114.686 172.597 L 114.426 172.505 Z M 107.124 179.174 L 107.274 179.542 L 107.721 179.826 L 107.86 180.477 L 108.451 180.536 L 108.412 181.72 L 108.839 182.148 L 108.991 182.63 L 109.531 182.669 L 109.531 182.97 C 109.226 183.251 109.309 183.451 109.309 183.451 C 109.335 183.529 109.399 183.576 109.437 183.597 C 109.437 183.597 109.58 183.669 110.132 183.681 L 109.986 184.682 L 110.456 184.728 L 110.564 185.626 C 110.6 185.89 110.589 185.842 110.594 185.922 C 110.598 185.983 110.601 186.039 110.6 186.087 C 110.599 186.094 110.599 186.101 110.599 186.107 L 110.599 186.113 C 110.443 186.202 110.052 186.451 109.884 186.501 C 109.558 186.599 109.439 187.354 109.426 187.369 C 109.344 187.472 109.175 187.66 109.122 187.68 C 109.111 187.68 109.096 187.68 109.074 187.679 C 109.074 187.679 109.027 187.703 108.448 187.572 L 108.346 187.549 L 107.617 188.22 L 107.131 187.682 L 106.929 187.603 L 107.079 187.353 L 106.724 187.021 L 106.816 186.472 L 106.487 186.527 L 106.407 186.021 L 106.144 185.494 L 106.072 185.337 L 106.304 185.069 L 106.425 183.359 L 106.786 183.275 L 106.806 182.847 L 107.282 182.783 L 107.214 180.176 Z M 127.159 180.099 L 127.162 180.104 C 127.165 180.107 127.167 180.11 127.17 180.114 C 127.173 180.119 127.176 180.124 127.179 180.128 C 127.209 180.175 127.219 180.19 127.219 180.19 L 127.218 180.206 L 127.114 180.106 C 127.128 180.104 127.149 180.1 127.159 180.099 Z M 129.804 182.237 L 131.311 183.565 L 132.123 184.148 L 132.886 184.973 L 133.37 186.11 L 134.182 186.987 L 135.291 187.908 L 135.711 188.456 L 135.662 188.846 L 135.317 188.797 L 135.019 188.605 L 133.848 188.482 L 133.437 188.032 L 132.524 187.489 L 131.833 187.09 L 130.939 186.555 L 130.58 186.569 L 130.697 185.88 L 130.194 185.788 L 130.151 185.028 L 129.74 185.008 L 129.74 184.413 L 129.466 184.244 L 129.447 182.416 Z M 95.573 213.257 L 95.7169 213.463 L 95.6024 213.899 L 95.4329 213.538 Z M 94.8108 216.008 L 95.1056 216.401 L 94.7821 216.678 L 94.8355 217.535 L 94.5206 217.693 L 94.0911 217.303 L 94.276 216.237 Z"
+          id="Pasir Panjang"
+        />
+        <path
+          id="Bukit Panjang"
+          d="M 111.543 23.4282 C 111.561 23.4293 111.57 23.4297 111.562 23.4297 C 111.556 23.4357 111.551 23.4402 111.539 23.4531 C 111.523 23.4712 111.506 23.4959 111.486 23.5233 C 111.486 23.5233 111.367 23.635 111.083 24.2634 L 110.656 25.5388 L 109.84 25.6909 L 109.375 26.2818 C 109.247 26.8705 108.939 27.1653 108.939 27.1653 C 108.903 27.1975 108.861 27.2216 108.819 27.2472 C 109.017 27.385 108.579 27.0801 109.056 27.411 L 109.228 27.531 L 108.316 28.7186 L 107.684 28.7186 L 108.029 30.3451 L 107.819 32.6502 L 108.301 32.7585 L 108.357 34.7711 L 109.62 35.1513 L 108.907 36.0231 L 107.763 36.7105 L 106.423 37.4331 L 106.339 37.4009 C 106.008 37.2837 105.799 37.0219 105.64 37.0235 C 105.597 37.0239 105.476 37.0704 105.3 37.4477 L 105.297 37.4567 L 104.449 38.9017 L 104.443 38.9137 L 104.438 38.9257 L 103.967 40.0344 L 104.072 43.0269 L 104.692 43.7056 L 104.575 45.4812 L 104.353 46.3647 L 104.353 47.5523 L 103.908 48.5031 L 103.908 49.483 L 103.443 49.9481 L 102.949 51.9871 L 102.516 52.692 L 102.516 54.5554 L 102.683 55.787 L 102.794 57.7849 L 103.224 59.5635 L 105.935 63.6589 L 107.368 66.1893 L 107.81 66.6749 L 109.196 67.1897 L 109.249 68.509 L 109.843 69.7259 L 110.711 69.5796 L 112.431 69.641 L 112.89 70.1705 L 113.396 71.0773 L 114.563 70.9778 L 115.593 70.4952 L 116.765 71.4225 L 117.739 72.6248 L 118.541 74.336 L 119.126 76.7874 L 120.957 77.0478 L 121.53 79.5547 L 123.343 82.5063 L 127.994 85.7212 L 129.243 87.2658 L 129.096 87.7923 L 130.919 87.374 L 132.714 88.1433 L 135.423 90.9516 L 136.44 90.7147 L 136.666 89.2345 L 137.172 87.6636 L 138.511 86.5169 L 138.655 85.142 L 145.712 73.8475 L 146.566 72.888 L 147.154 72.9436 L 147.733 72.9962 L 149.117 73.8825 L 148.646 75.2867 L 147.639 75.6436 L 146.993 76.489 L 146.145 76.53 L 146.201 76.9483 L 147.116 77.1238 L 147.537 77.4251 L 147.619 76.1643 L 148.593 75.6787 L 149.722 75.0118 L 150.488 75.237 L 150.263 75.9186 L 150.974 75.1727 L 151.784 74.5905 L 151.866 73.3824 L 151.246 72.8939 L 150.83 72.2415 L 151.205 71.3844 L 151.36 70.539 C 150.944 70.4478 150.711 70.4044 150.711 70.4044 C 150.678 70.3999 150.65 70.3954 150.626 70.3924 C 150.598 70.3894 150.582 70.3864 150.573 70.3864 C 150.573 70.3864 150.499 70.4387 150.412 70.5561 L 150.737 71.3576 L 149.833 71.931 L 149.348 71.5595 L 149.105 72.7822 L 146.829 70.9071 L 146.894 69.7897 L 147.692 69.5673 L 147.575 69.2514 L 147.017 69.6902 L 145.703 69.1198 L 142.349 56.1286 L 140.997 54.3471 L 140.445 53.0542 L 139.003 52.6827 L 139.59 51.3926 L 140.412 49.9592 L 139.751 49.5848 L 137.365 43.2018 L 135.993 41.6368 L 135.791 40.3175 L 135.434 38.8373 L 136.145 37.9071 L 135.314 37.284 L 133.902 35.5581 L 134.987 33.7679 L 136.183 33.4431 L 137.21 33.7123 L 138.242 34.7946 L 139.453 34.6337 L 139.681 33.3408 L 140.86 32.472 L 142.12 31.6119 L 143.855 31.4716 L 144.302 30.6262 L 144.978 29.9007 L 145.595 28.5639 L 146.256 28.5141 L 146.619 28.0783 L 146.2 26.6888 L 143.483 25.9545 L 141.793 26.1534 L 139.898 24.6469 L 141.345 23.3101 L 142.366 22.7718 L 142.869 22.3564 L 142.963 20.5077 L 143.346 20.2239 L 143.255 16.2046 L 141.857 16.1637 L 135.294 20.0221 L 131.202 21.2449 L 128.345 22.5291 L 124.668 25.3081 L 123.103 24.4715 L 122.024 23.8893 L 121.319 25.2525 L 119.605 26.5396 L 116.239 23.7811 L 115.748 22.064 L 115.432 21.71 L 115.429 21.701 C 115.195 21.3769 115.046 21.3032 115.046 21.3032 C 115.026 21.3152 114.939 21.37 114.856 21.5665 L 114.823 21.6396 L 113.674 22.1164 L 113.27 23.4854 L 113.115 23.4794 C 112.249 23.4487 111.782 23.4322 111.546 23.4241 L 111.543 23.4271 Z"
+        />
+        <path
+          id="Leng Kee"
+          d="M 137.651 124.007 L 139.725 126.286 L 140.641 127.591 L 141.015 126.692 L 142.314 126.488 L 142.226 125.528 L 142.814 125.394 L 142.896 124.013 L 145.929 124.013 L 145.929 124.87 L 147.417 124.779 L 147.628 125.367 L 148.739 125.318 L 149.634 124.908 L 150.398 125.098 L 150.228 126.087 L 151.205 126.222 L 151.401 127.632 L 147.037 127.213 L 146.87 128.983 L 146.282 128.93 L 146.282 128.538 L 144.051 128.489 L 143.969 129.445 L 143.431 129.398 L 143.495 130.452 L 141.617 130.428 L 141.448 130.188 L 141.863 130.068 L 142.29 128.857 L 141.77 128.825 L 141.854 128.222 L 139.915 128.29 L 139.576 128.968 L 138.941 129.466 L 138.608 130.065 L 135.8 127 L 137.725 127.24 L 137.698 126.757 L 137.806 126.801 L 138.365 126.242 L 138.052 124.674 L 137.467 124.227 Z"
+        />
+        <path
+          id="Bukit Merah"
+          d="M 147.4 127.64 L 148.072 127.664 L 148.072 129.708 L 149.16 129.875 L 149.125 130.706 L 147.602 132.104 L 147.587 132.139 C 147.262 132.795 147.286 132.879 147.286 132.879 C 147.282 132.897 147.279 132.92 147.277 132.941 L 147.271 132.944 C 147.267 132.945 147.264 132.948 147.259 132.95 C 147.259 132.95 147.204 132.981 147.069 132.996 L 146.923 133.014 L 146.721 134.096 L 143.606 132.163 L 143.91 130.668 L 143.858 129.837 L 144.332 129.878 L 144.416 128.895 L 145.885 128.93 L 145.885 129.299 L 147.233 129.416 Z"
+        />
+        <path
+          id="Tanglin"
+          d="M 143.144 78.8759 L 159.678 89.4655 L 159.783 89.404 C 160.256 89.1195 160.5 89.053 160.5 89.053 C 160.519 89.047 160.522 89.0485 160.538 89.044 C 160.547 89.0813 160.555 89.1126 160.564 89.1727 C 160.576 89.2531 160.587 89.3492 160.596 89.4564 C 160.605 89.5529 160.614 89.6581 160.62 89.7694 C 160.625 89.8696 160.627 89.9746 160.631 90.0824 C 160.639 90.2767 160.646 90.4783 160.649 90.6792 C 160.658 91.2288 160.669 90.9665 160.646 92.1418 L 159.321 93.0253 L 160.096 94.0316 L 159.956 98.7032 L 161.009 99.0572 L 161.278 100.859 L 162.728 102.105 L 163.117 103.6 L 163.325 107.28 L 165.039 109.342 L 165.106 110.755 L 165.647 111.788 L 164.668 111.735 L 162.778 112.227 L 159.994 113.063 L 158.447 114.397 L 157.306 115.468 L 157.016 116.623 L 156.844 117.363 L 155.838 117.363 L 154.343 116.223 L 153.135 116.978 L 151.764 117.762 L 150.152 117.396 L 149.775 118.528 L 147.61 119.882 L 146.66 121.126 L 146.59 122.445 L 146.005 123.615 L 142.72 123.615 L 140.781 123.507 L 139.725 123.03 L 137.239 121.529 L 136.601 120.535 L 136.183 120.239 L 136.344 116.059 L 136.809 115.939 L 136.955 115.179 L 137.409 115.053 L 138.383 111.414 L 141.211 108.775 L 143.112 107.895 L 143.443 107.087 L 144.18 107.242 L 144.218 106.028 L 143.84 105.382 L 142.144 104.893 L 139.596 102.936 L 136.935 101.146 L 127.33 97.6093 L 127.78 95.3685 L 127.924 94.0697 L 127.435 93.0195 L 127.374 92.0191 L 127.88 91.0099 L 127.344 90.0825 L 128.927 88.2484 L 130.883 87.795 L 132.486 88.4795 L 135.294 91.3902 L 136.797 91.042 L 137.061 89.3191 L 137.061 89.3101 L 137.517 87.8913 L 138.892 86.7154 L 139.041 85.279 Z"
+        />
+        <path
+          id="Tiong Bahru"
+          d="M 148.47 127.699 L 151.48 128.038 L 151.644 128.591 L 151.132 128.553 L 151.132 129.828 L 153.749 129.828 L 153.89 130.378 L 157.411 130.197 L 157.695 131.379 L 158.201 132.16 L 158.684 133.119 L 160.994 134.342 L 161.798 135.746 L 161.831 136.065 L 160.371 136.814 L 158.95 137.504 L 157.186 136.989 L 154.276 135.299 L 152.664 136.969 L 154.138 138.192 L 155.273 139.365 L 152.079 141.673 L 152.857 143.568 L 153.337 145.016 L 151.614 145.692 L 151.693 144.537 L 149.041 144.449 L 147.487 143.756 L 142.939 141.316 L 142.521 141.216 L 143.138 139.798 L 144.659 138.677 L 146.04 136.919 L 147.063 135.249 L 147.063 134.444 L 147.28 133.274 L 147.92 132.356 L 149.517 130.887 L 149.573 129.533 L 148.47 129.363 Z"
+        />
+        <path
+          id="Kim Seng"
+          d="M 153.34 126.488 L 156.818 126.614 L 157.022 127.512 L 157.473 127.962 L 157.634 128.807 L 157.405 129.799 L 154.194 129.963 L 154.059 129.431 L 151.53 129.431 L 151.53 128.986 L 152.193 129.036 L 151.831 127.81 L 151.799 127.476 L 153.062 127.687 Z"
+        />
+        <path
+          id="Sembawang"
+          d="M 169.213 18.5563 C 169.36 18.4966 169.601 18.3926 169.995 18.2122 L 170.282 17.9893 L 169.491 16.4081 L 168.665 15.3059 L 167.136 14.7324 L 165.862 13.6542 L 165.859 13.6519 L 163.825 12.1844 L 162.508 12.0823 L 162.094 11.2557 L 159.81 9.81066 L 158.83 9.72862 L 157.465 12.46 L 156.375 12.2262 L 157.929 9.31918 L 157.097 8.56997 L 153.434 6.83085 L 152.339 9.34008 L 150.597 11.1334 L 149.393 11.7812 L 150.693 9.12182 L 150.379 8.33623 L 149.578 8.18453 L 148.019 9.88961 L 146.417 9.42212 L 148.939 6.84555 L 149.579 6.38349 L 148.654 5.82854 L 146.727 5.40518 L 143.856 5.50115 L 141.646 5.84557 L 140.073 5.41601 L 137.623 6.47404 L 136.14 6.38039 L 135.134 7.91441 L 134.103 8.01735 L 133.083 8.48097 L 126.611 12.7317 L 121.798 16.7679 L 120.037 17.4343 L 119.195 18.771 L 117.432 18.9212 L 116.193 19.408 L 115.917 20.4234 L 115.016 21.4056 L 116.095 21.8205 L 116.589 23.5519 L 119.618 26.0309 L 121.005 24.9891 L 121.854 23.3468 L 124.632 24.8359 L 128.133 22.1858 L 131.074 20.8631 L 135.134 19.6541 L 141.751 15.7618 L 143.646 15.8167 L 143.749 20.4219 L 143.354 20.7183 L 143.257 22.5697 L 141.585 23.6331 L 140.511 24.6254 L 141.909 25.7368 L 143.513 25.5487 L 146.516 26.3629 L 147.064 28.171 L 146.457 28.9 L 145.859 28.9465 L 145.314 30.1291 L 144.632 30.859 L 144.108 31.8535 L 142.261 32.0037 L 140.046 33.5725 L 139.793 34.992 L 138.094 35.218 L 136.997 34.071 L 136.182 33.8566 L 135.247 34.1128 L 134.392 35.523 L 135.595 36.9935 L 136.705 37.8271 L 135.863 38.9339 L 136.368 41.4578 L 137.714 42.995 L 140.075 49.3091 L 140.962 49.809 L 139.945 51.5768 L 139.563 52.415 L 140.642 52.6952 L 142.251 53.1333 L 142.258 53.1365 C 142.814 53.3386 142.962 53.385 142.988 53.3886 C 142.98 53.3837 142.964 53.3764 142.964 53.3764 C 142.969 53.3776 142.974 53.3788 142.981 53.3796 C 142.973 53.376 142.966 53.3724 142.966 53.3724 C 142.977 53.3751 142.993 53.3779 143.028 53.3824 C 143.059 53.3864 143.097 53.3907 143.141 53.3948 C 143.141 53.3948 143.127 53.3956 143.129 53.3976 C 143.133 53.3979 143.137 53.3983 143.141 53.3987 C 143.141 53.3987 143.137 53.3989 143.133 53.3995 C 143.164 53.4068 143.362 53.4243 144.301 53.4623 L 145.609 53.1009 L 146.323 52.1636 L 147.143 49.8502 L 150.139 44.437 L 151.49 37.0966 L 151.543 36.8861 L 149.338 34.5107 L 149.929 33.4264 L 151.718 33.212 L 151.367 32.5077 L 150.953 31.2654 L 155.74 31.6013 L 157.979 31.767 L 159.094 33.9124 L 158.541 35.4944 L 159.736 38.1229 L 158.416 40.0586 L 158.282 40.0315 L 157.888 40.4974 L 158.958 41.29 L 159.763 41.163 L 161.09 40.4742 L 162.39 40.5392 L 161.523 42.7636 L 161.392 43.8116 C 161.479 43.9176 161.55 43.9672 161.55 43.9672 C 161.556 43.9707 161.561 43.9732 161.566 43.9757 C 161.57 43.9777 161.573 43.9789 161.576 43.9803 C 161.617 43.9355 161.681 43.8877 161.742 43.8534 C 161.803 43.8184 161.88 43.7792 161.965 43.7396 C 162.042 43.7037 162.128 43.6664 162.22 43.6274 C 162.303 43.5923 162.391 43.5557 162.483 43.519 C 162.648 43.453 162.823 43.3855 162.999 43.3193 C 163.501 43.1307 163.108 43.2569 164.409 42.8147 L 167.21 41.8008 L 168.575 41.1414 L 170.056 39.7111 L 171.271 39.5648 L 172.614 38.3558 L 172.661 37.0865 L 173.42 35.6291 L 174.806 36.6415 L 175.555 36.5625 L 178.769 31.7639 L 175.132 26.6618 L 173.567 25.2423 L 172.958 23.9227 L 172.524 21.6093 L 171.584 20.0876 L 169.627 20.0876 L 168.887 21.2718 L 166.77 20.8902 L 167.458 22.0125 L 167.142 22.254 L 165.578 20.5892 L 165.732 18.9491 L 165.926 17.1527 L 166.311 17.1016 L 167.224 19.429 L 168.203 19.316 C 168.36 18.7265 168.692 18.7192 168.692 18.7192 C 168.695 18.7192 168.709 18.7174 168.744 18.7092 C 168.775 18.702 168.812 18.6921 168.856 18.6782 C 168.895 18.6658 168.937 18.6506 168.983 18.6341 C 168.983 18.6341 168.982 18.6366 168.994 18.6347 C 169.032 18.6208 169.072 18.6059 169.114 18.59 C 169.114 18.59 169.13 18.5881 169.213 18.5564 Z M 174.626 19.1433 L 175.856 20.1193 L 176.855 21.7361 L 176.856 21.7377 L 177.485 22.9482 L 179.221 25.4094 L 179.683 26.7012 L 179.649 27.2763 L 178.939 27.2058 L 178.303 26.7677 L 178.405 25.7507 L 177.603 25.5216 L 176.609 24.7531 L 176.252 23.9064 L 175.957 21.9443 L 175.064 20.6533 L 174.365 19.4304 Z"
+        />
+        <path
+          id="Tanjong Pagar"
+          d="M 160.093 131.791 L 160.801 132.186 L 161.48 133.268 L 162.31 133.505 L 163.395 134.07 L 163.606 134.705 L 164.252 135.404 L 164.302 136.366 L 163.337 137.493 L 162.898 138.364 L 163.252 139.599 L 163.457 141.462 L 162.477 142.129 L 161.304 143.466 L 156.864 143.077 L 155.112 144.604 L 153.723 144.899 L 153.232 143.428 L 152.568 141.813 L 155.882 139.417 L 154.405 137.89 L 153.252 136.934 L 154.346 135.802 L 157.034 137.361 L 158.988 137.931 L 162.252 136.299 L 162.19 135.623 L 161.281 134.044 L 159.146 132.915 Z"
+        />
+        <path
+          id="Cairnhill"
+          d="M 169.108 109.805 L 170.728 111.425 L 170.988 112.312 L 171.164 113.701 L 171.83 114.319 L 171.061 115.854 L 169.321 118.49 L 168.993 121.175 L 167.487 122.164 L 165.87 122.565 L 167.601 124.616 L 168.388 125.11 L 168.166 125.821 L 166.434 128.307 L 165.577 128.623 L 164.887 127.722 L 162.655 127.544 L 161.392 128.641 L 159.043 127.974 L 158.59 126.394 L 156.984 126.222 L 153.024 126.078 L 152.755 127.234 L 151.752 127.067 L 151.556 125.865 L 150.69 125.748 L 150.854 124.8 L 149.596 124.487 L 148.646 124.923 L 147.903 124.955 L 147.692 124.364 L 146.326 124.446 L 146.326 123.864 L 146.984 122.553 L 147.052 121.272 L 147.885 120.181 L 150.108 118.791 L 150.415 117.867 L 151.825 118.189 L 154.32 116.706 L 155.703 117.762 L 157.163 117.762 L 157.663 115.685 L 160.193 113.424 L 164.714 112.139 L 166.095 112.212 L 166.952 110.881 L 166.958 110.872 L 167.484 110.349 L 167.932 109.901 Z"
+        />
+        <path
+          d="M 163.99 101.068 L 169.941 101.443 L 171.659 101.712 L 172.283 102.192 L 172.417 102.905 L 170.242 105.136 L 170.53 106.364 L 172.68 106.111 L 173.186 105.503 L 173.695 105.758 L 173.111 106.385 L 170.92 108.09 L 174.309 110.857 L 172.046 113.974 L 171.541 113.508 L 171.382 112.228 L 171.084 111.217 L 169.257 109.39 L 167.755 109.514 L 166.631 110.64 L 166.007 111.61 L 165.502 110.649 L 165.432 109.186 L 163.717 107.128 L 163.514 103.538 L 163.508 103.518 C 163.44 103.256 163.329 102.83 163.239 102.486 C 163.194 102.314 163.155 102.162 163.128 102.061 C 163.126 102.052 163.125 102.048 163.123 102.039 L 163.457 101.625 L 164.027 101.502 Z"
+          id="Moulmein"
+        />
+        <path
+          id="Whampoa"
+          d="M 176.846 100.704 L 177.066 101.011 L 176.852 102.278 L 175.636 103.992 L 176.577 104.393 L 175.998 105.083 L 174.948 104.475 L 173.983 105.455 L 173.082 105.005 L 172.474 105.73 L 170.839 105.926 L 170.684 105.259 L 172.848 103.036 L 172.682 102.144 L 173.079 101.719 L 174.29 101.851 L 175.115 101.208 L 176.171 100.845 L 176.18 100.842 Z"
+        />
+        <path
+          id="Toa Payoh"
+          d="M 162.103 90.8696 L 163.717 91.0188 L 164.059 91.2703 L 164.735 91.6448 L 168.139 91.5395 L 169.52 91.987 L 170.816 91.8671 L 170.816 93.6895 L 169.646 94.3916 L 172.834 97.115 L 172.834 98.5367 L 172.015 99.1832 L 171.939 100.622 L 172.728 101.506 L 172.442 101.81 L 171.825 101.333 L 169.982 101.044 L 163.55 100.64 L 163.6 101.184 L 163.235 101.263 L 162.878 101.705 L 161.652 100.652 L 161.369 98.7531 L 160.365 98.4167 L 160.5 93.9001 L 159.9 93.119 L 160.974 92.4053 L 161.804 91.5569 Z"
+        />
+        <path
+          id="Kim Keat"
+          d="M 171.073 94.0025 L 175.144 94.0025 L 176.577 95.2429 L 176.677 95.9332 L 177.107 96.5622 L 176.747 100.327 L 174.925 100.848 L 174.173 101.436 L 173.1 101.319 L 172.348 100.476 L 172.404 99.3851 L 173.231 98.7298 L 173.231 96.9308 L 170.33 94.4501 Z"
+        />
+        <path
+          id="Kallang"
+          d="M 177.973 101.064 L 181.061 102.342 L 177.706 106.479 L 180.429 108.377 L 180.593 108.851 L 179.95 108.878 L 176.803 112.856 L 175.533 111.183 L 174.708 110.668 L 174.7 110.659 L 174.688 110.653 L 171.561 108.096 L 173.381 106.683 L 174.167 105.838 L 175.018 104.978 L 176.092 105.598 L 177.227 104.235 L 176.25 103.819 L 177.23 102.442 L 177.449 101.137 Z"
+        />
+        <path
+          id="Nee Soon South"
+          d="m 173.5625,36.228516 1.13281,0.828125 0.625,-0.06836 -0.41406,0.771485 -0.31836,2.015625 -0.48437,2.691406 -2.75586,2.359375 -3.95704,4.580078 -2.05859,0.640625 -2.50781,-0.625 -1.56641,0.09961 -0.31836,1.013672 -0.40429,2.615235 -0.25977,1.394531 0.97656,0.347656 1.63086,4.230469 0.12891,1.814453 -0.375,1.083984 -2.74024,2.033203 1.4961,1.78125 0.082,2.917969 -1.23633,0.175781 -0.29101,-0.912109 -0.93555,-0.494141 -0.75,0.402344 -1.36133,0.515625 -0.97266,1.238281 -0.57617,0.03516 -0.98437,-1.191407 -0.15235,-0.976562 -8.4707,0.05078 -3.0293,-11.642578 -1.36914,-1.816406 -0.4082,-0.949219 1.1875,0.322266 0.0156,0.0078 2.19336,0.347656 1.50977,-0.417968 0.83398,-1.089844 0.82813,-2.335938 v -0.002 l 3.01367,-5.453125 1.0957,-6.294922 0.34571,-1.396484 2.37695,-0.06641 -0.0664,1.375 -0.9707,1.236328 2.00977,1.183594 2.23828,-0.726563 0.28906,0.06055 -0.53125,0.626953 1.54688,1.144531 1.03515,-0.162109 1.29297,-0.671875 0.63477,0.0293 -0.68164,1.75 -0.17383,1.40625 1.24414,0.06641 5.15429,-1.955078 1.44727,-0.701172 1.42969,-1.382812 1.20703,-0.142578 1.56445,-1.410157 0.0488,-1.33789 z"
+          />
+        <path
+          id="Kebun Baru"
+          d="M 153.869 67.9471 L 153.986 68.6931 L 155.171 70.1235 L 156.133 70.065 L 157.148 68.7749 L 158.417 68.2923 L 159.011 67.9734 L 159.614 68.2923 L 159.956 69.3717 L 161.161 69.202 L 160.339 70.1176 L 159.722 71.2029 L 160.74 72.5251 L 161.576 72.8586 L 161.623 73.7976 L 162.234 73.7449 L 162.497 74.3095 L 161.986 75.5469 L 161.679 76.5824 L 158.698 75.6434 L 153.981 74.8653 L 152.135 75.4679 L 152.176 74.7102 L 152.281 73.1979 L 151.547 72.6216 L 151.284 72.2062 L 151.573 71.5393 C 151.788 71.1108 151.902 70.7221 151.772 70.3925 C 151.757 70.3524 151.731 70.2887 151.693 70.2317 C 151.504 69.9473 151.119 69.9157 150.105 70.3428 L 149.871 70.4422 L 150.023 70.647 C 150.121 70.7791 150.202 70.9362 150.257 71.0712 C 150.274 71.1121 150.279 71.1356 150.289 71.1676 L 149.854 71.4455 L 149.084 70.8517 L 148.845 72.0481 L 147.239 70.723 L 147.274 70.0999 L 148.219 69.8366 L 147.757 68.6022 L 146.958 69.2282 L 146.043 68.8303 L 145.841 67.9937 Z"
+        />
+        <path
+          id="Thomson"
+          d="M 146.73 73.3033 L 147.596 73.3852 L 148.637 74.0522 L 148.33 74.9736 L 147.397 75.3013 L 146.788 76.0999 L 145.695 76.1526 L 145.838 77.2876 L 146.949 77.4982 L 147.888 78.1681 L 148.002 76.4217 L 148.786 76.0297 L 149.775 75.4447 L 149.976 75.5061 L 149.781 76.0999 L 150.003 76.7669 L 151.234 75.4769 L 151.755 75.1024 L 151.702 76.0297 L 154.013 75.275 L 158.596 76.0327 L 161.763 77.0273 L 165.428 77.9487 L 167.999 78.6479 L 172.699 83.4716 L 174.711 89.7493 L 175.279 91.3991 L 171.003 91.4488 L 169.567 91.5835 L 168.201 91.1388 L 164.84 91.2413 L 163.855 90.6299 L 161.851 90.4427 L 161.465 91.3291 L 161.058 91.7444 L 161.155 88.3599 L 159.698 89.0035 L 143.355 78.5339 L 146.04 74.0787 L 146.046 74.0697 Z"
+        />
+        <path
+          id="Ang Mo Kio"
+          d="M 165.212 68.7223 L 165.864 68.854 L 165.893 69.4829 L 167.043 69.4215 L 167.277 69.9334 L 167.417 72.2181 L 169.312 75.8249 L 168.762 76.0882 C 168.399 76.1769 168.249 76.2771 168.186 76.3486 C 168.175 76.3501 168.17 76.3516 168.154 76.3545 C 168.121 76.359 168.082 76.365 168.037 76.3695 C 167.997 76.374 167.952 76.3785 167.905 76.3815 C 167.905 76.3815 167.912 76.4118 166.943 76.4137 L 166.478 75.972 L 165.174 75.3226 L 165.077 75.4805 C 164.472 76.4828 164.559 76.3778 164.463 76.557 C 164.432 76.614 164.401 76.6688 164.372 76.7238 C 164.341 76.7849 164.312 76.8456 164.285 76.9022 C 164.254 76.9651 164.224 77.0255 164.2 77.0807 C 164.185 77.115 164.177 77.1452 164.165 77.1773 L 162.068 76.6888 L 162.369 75.6708 L 162.936 74.2988 L 162.723 73.8454 L 163.931 74.1818 L 163.898 73.2135 L 164.293 73.1316 L 164.144 70.8031 L 164.144 70.7911 L 164.144 70.7881 L 164.168 69.2435 L 165.03 69.2172 Z"
+        />
+        <path
+          id="Yio Chu Kang"
+          d="M 162.737 62.4447 L 163.243 63.4217 L 163.58 63.5651 L 163.58 64.1004 L 164.03 64.8639 L 164.112 65.6157 L 164.434 66.0983 L 164.366 66.8911 L 164.864 66.9467 L 164.785 67.6955 L 165.127 67.795 L 164.896 68.4239 L 164.75 68.8247 L 163.776 68.8569 L 163.746 70.8051 L 163.872 72.8089 L 163.489 72.8908 L 163.515 73.6485 L 162.378 73.3326 L 162 73.3618 L 161.962 72.5836 L 160.994 72.1946 L 160.202 71.1678 L 160.661 70.3575 L 161.88 68.9973 L 161.787 65.6829 L 160.476 64.1237 Z"
+        />
+        <path
+          id="Teck Ghee"
+          d="M 165.329 75.8454 L 166.244 76.3017 L 166.791 76.8195 L 168.324 76.6674 L 168.912 76.4626 L 169.567 76.1496 L 170.336 76.7229 L 171.137 77.2641 L 171.696 77.4484 L 172.243 77.4484 L 172.494 77.6298 L 172.389 79.7389 L 172.339 80.4702 L 171.848 80.9909 L 171.468 81.5994 L 168.21 78.2909 L 164.583 77.2846 L 164.922 76.5445 L 164.925 76.5385 L 164.931 76.5265 Z"
+        />
+        <path
+          id="Kreta Ayer"
+          d="M 157.236 126.649 L 158.28 126.763 L 158.722 128.298 L 161.491 129.085 L 162.793 127.953 L 164.676 128.108 L 165.437 129.103 L 166.601 128.673 L 167.721 128.714 L 168.11 128.971 L 168.113 128.974 L 168.643 129.463 L 168.836 130.724 L 169.254 131.11 L 169.289 131.125 C 169.905 131.368 169.994 131.347 169.994 131.347 C 170.023 131.351 170.057 131.356 170.087 131.356 C 170.087 131.356 170.074 131.341 170.506 131.379 L 170.631 131.391 L 171.038 130.692 L 171.769 130.777 L 171.743 129.92 L 172.345 129.964 L 172.448 129.54 L 176.045 129.54 L 176.142 130.879 L 176.308 130.897 C 176.756 130.94 177.254 131.061 177.44 131.108 C 177.497 131.121 177.586 131.154 177.718 131.21 C 177.836 131.259 177.979 131.325 178.139 131.4 C 178.284 131.468 178.444 131.543 178.613 131.625 C 178.918 131.775 179.254 131.946 179.599 132.123 C 179.875 132.264 180.157 132.408 180.429 132.55 C 181.43 133.071 180.674 132.662 182.436 133.612 L 183.24 134.644 L 183.714 135.829 L 183.933 136.657 L 183.594 137.438 C 182.333 138.307 182.614 138.093 182.614 138.093 C 182.579 138.115 182.551 138.131 182.529 138.143 C 182.506 138.156 182.52 138.152 182.521 138.152 C 182.466 138.165 182.41 138.205 182.351 138.245 C 182.297 138.283 182.227 138.334 182.143 138.395 C 182.068 138.449 181.98 138.512 181.886 138.582 C 181.178 139.103 182.481 138.114 179.561 140.328 L 176.112 142.183 L 174.863 142.142 L 170.131 139.658 L 170.105 146.185 L 169.868 146.375 L 169.833 147.138 L 170.494 147.554 L 170.023 148.025 L 167.437 145.167 L 167.429 145.155 L 166.896 144.464 L 166.148 144.198 L 165.378 144.649 L 165.785 145.529 L 166.15 145.871 L 166.458 146.483 L 166.466 146.498 C 166.62 146.705 166.551 147.115 166.551 147.115 C 166.529 147.228 166.452 147.353 166.458 147.355 L 166.016 147.179 L 162.132 143.107 L 162.749 142.432 L 163.881 141.656 L 163.644 139.518 L 163.325 138.406 L 163.673 137.713 L 164.709 136.508 L 164.644 135.241 L 163.96 134.501 L 163.723 133.79 L 162.462 133.132 L 161.737 132.924 L 161.085 131.889 L 160.003 131.283 L 158.877 132.614 L 158.552 131.971 L 158.066 131.222 L 157.771 129.993 L 158.043 128.817 L 157.841 127.77 L 157.388 127.317 Z"
+        />
+        <path
+          id="Kampong Glam"
+          d="M 177.089 117.308 L 178.136 117.618 L 179.099 117.656 L 180.315 118.756 L 180.657 119.78 L 181.824 119.388 L 182.058 118.692 L 183.848 118.905 L 183.962 119.97 L 184.916 121.632 L 184.872 121.986 L 183.983 121.638 L 183.629 122.249 L 182.945 122.667 L 182.038 122.857 L 181.172 122.363 L 180.219 122.363 L 179.988 125.426 L 182.26 130.098 L 186.106 134.363 L 186.106 134.737 L 184.24 136.331 L 183.597 134.447 L 182.702 133.298 L 179.35 131.531 L 177.642 130.718 L 176.516 130.528 L 176.419 129.144 L 172.132 129.144 L 172.035 129.542 L 171.333 129.489 L 171.357 130.326 L 170.824 130.264 L 170.424 130.955 L 169.456 130.753 L 169.21 130.527 L 169.017 129.261 L 167.862 128.319 L 166.937 128.287 L 168.528 125.999 L 168.862 124.934 L 167.864 124.311 L 166.589 122.799 L 167.648 122.536 L 169.368 121.406 L 169.69 118.782 L 170.78 118.917 L 171.538 119.713 L 173.155 121.284 Z"
+        />
+        <path
+          id="Mountbatten"
+          d="M 195.085 113.505 L 195.428 114.986 L 196.048 116.764 L 195.352 117.098 L 192.906 117.264 L 192.114 117.706 L 192.111 117.706 L 191.415 117.996 L 192.807 120.424 L 192.766 124.917 L 192.301 125.341 L 192.301 129.118 L 192.728 129.758 L 192.158 130.138 L 191.049 130.566 L 186.504 134.401 L 186.504 134.207 L 182.591 129.863 L 180.394 125.35 L 180.587 122.761 L 181.067 122.761 L 181.974 123.279 L 183.094 123.048 L 183.922 122.536 L 184.156 122.135 L 185.206 122.547 L 185.331 121.553 L 184.351 119.844 L 184.211 118.549 L 181.784 118.253 L 181.509 119.072 L 180.909 119.271 L 180.719 118.698 L 181.652 117.797 L 183.813 116.82 L 186.735 116.951 L 186.779 116.539 L 187.262 116.583 L 187.262 116.056 L 187.557 116.056 L 187.557 115.234 L 188.005 115.354 L 188.048 114.793 L 189.122 114.793 L 189.21 114.403 L 190.526 114.33 L 191.5 113.906 Z"
+        />
+        <path
+          id="Jalan Besar"
+          d="M 181.403 102.565 L 183.076 104.27 L 183.085 104.279 L 184.381 106.163 L 185.922 107.705 L 189.493 106.195 L 190.069 106.906 C 190.069 109.97 190.063 108.686 190.043 109.679 C 190.04 109.812 190.038 109.939 190.034 110.057 C 190.031 110.188 190.027 110.308 190.023 110.414 C 190.018 110.531 190.014 110.629 190.008 110.703 C 190.002 110.782 189.999 110.811 189.999 110.811 C 189.999 110.811 189.844 111.055 190.359 111.786 L 190.286 113.944 L 188.885 114.023 L 188.8 114.395 L 187.68 114.395 L 187.645 114.845 L 187.159 114.714 L 187.159 115.659 L 186.864 115.659 L 186.864 116.144 L 186.422 116.106 L 186.378 116.536 L 183.737 116.416 L 181.427 117.463 L 180.485 118.37 L 179.259 117.264 L 178.212 117.221 L 176.972 116.855 L 173.15 120.719 L 170.971 118.537 L 169.859 118.399 L 171.412 116.045 L 172.252 114.371 L 172.255 114.365 L 174.635 111.092 L 175.261 111.484 L 176.797 113.508 L 180.152 109.27 L 181.149 109.226 L 180.766 108.126 L 178.288 106.4 L 179.675 104.768 Z"
+        />
+        <path
+          id="Potong Pasir"
+          d="M 179.005 91.1094 L 180.678 92.2386 L 182.249 92.2386 L 182.5 94.3419 L 185.381 94.4266 L 187.27 96.1145 L 189.847 104.469 L 189.391 105.803 L 186.013 107.231 L 184.7 105.92 L 184.694 105.911 L 183.383 104.01 L 181.5 102.091 L 178.022 100.651 L 177.37 100.742 L 177.139 100.423 L 177.516 96.4565 L 177.06 95.7895 L 176.952 95.0377 L 175.299 93.6044 L 171.213 93.6044 L 171.213 91.8434 L 175.551 91.7936 L 177.499 91.8697 L 177.361 91.3227 Z"
+        />
+        <path
+          id="Marine Parade"
+          d="M 196.402 105.879 L 196.791 106.116 L 197.572 109.977 L 199.511 109.638 L 199.733 110.764 L 201.704 113.09 L 204.337 112.391 L 211.853 111.276 L 214.222 116.787 L 214.181 120.391 L 207.399 122.544 L 204.957 123.554 L 201.105 124.838 L 200.47 125.674 L 199.616 125.511 L 198.987 126.005 L 197.291 126.514 L 195.802 127.819 L 195.916 128.097 L 194.834 128.097 L 193.053 129.521 L 192.699 128.992 L 192.699 125.519 L 193.164 125.098 L 193.208 120.318 L 191.979 118.177 L 193.021 117.656 L 195.463 117.49 L 196.545 116.972 L 195.817 114.886 L 195.814 114.874 L 195.811 114.865 L 195.395 113.066 L 191.394 113.514 L 190.689 113.821 L 190.762 111.685 L 190.3 110.714 L 190.461 106.984 L 192.111 106.487 L 195.24 106.317 Z"
+        />
+        <path
+          id="MacPherson"
+          d="M 192.67 101.766 L 192.909 101.766 L 193.491 102.492 L 193.67 103.638 L 194.457 104.033 L 195.039 104.171 L 195.004 105.929 L 192.044 106.09 L 190.339 106.608 L 189.85 106.002 L 191.438 105.019 L 192.175 104.428 L 191.933 103.296 L 193.1 102.863 Z"
+        />
+        <path
+          id="Aljunied"
+          d="M 194.065 85.8322 L 196.162 85.9434 L 195.442 88.4942 L 196.647 90.1733 L 196.773 93.2478 L 200.511 95.5441 L 201.549 94.2892 L 203.605 94.9123 L 205.378 96.8488 L 207.042 98.7239 L 207.77 100.333 L 206.735 101.257 L 205.913 102.076 L 206.872 102.606 L 206.732 103.782 L 208.791 103.489 L 218.449 98.6596 L 218.598 99.4552 L 220.499 99.3705 L 220.876 101.096 L 218.633 101.316 L 218.943 101.813 L 216.55 101.699 L 216.141 102.337 L 214.839 102.936 L 215.957 104.101 L 216.208 106.739 L 216.837 107.669 L 216.925 109.188 L 218.247 109.998 L 218.826 112.929 L 217.691 113.225 L 215.62 113.982 L 213.731 114.637 L 212.099 110.832 L 204.263 111.996 L 201.845 112.639 L 200.107 110.586 L 199.827 109.176 L 197.887 109.515 L 197.147 105.867 L 196.443 105.435 L 195.404 105.826 L 195.442 103.872 L 194.033 103.36 L 193.872 102.325 L 193.102 101.368 L 192.082 101.368 L 192.579 102.629 L 191.47 103.039 L 191.728 104.259 L 189.935 105.458 L 190.268 104.478 L 187.618 95.8893 L 185.542 94.0318 L 182.857 93.9529 L 182.632 92.0602 L 183.445 89.8224 L 186.683 86.1336 L 187.823 86.2477 L 189.645 86.8416 L 192.216 86.8854 Z"
+        />
+        <path
+          id="Braddell Heights"
+          d="M 180.795 78.288 L 183.234 78.3727 L 183.334 78.8261 L 184.39 78.8261 L 184.857 79.7622 L 184.857 81.8538 L 185.747 81.886 L 185.966 82.4886 L 186.536 83.296 L 187.399 84.0331 L 187.534 84.6884 L 187.42 85.174 L 186.937 85.2032 L 186.449 85.7941 L 184.749 87.7541 L 183.094 89.6145 L 182.287 91.8407 L 180.804 91.8407 L 179.104 90.694 L 176.867 90.9836 L 176.984 91.4516 L 175.729 91.4019 L 175.685 91.1503 L 176.177 91.1503 L 175.94 88.3303 L 177.727 86.0194 L 177.733 86.0134 L 179.195 84.58 L 181.234 83.8779 L 181.269 79.7972 L 180.845 79.6363 Z"
+        />
+        <path
+          id="Serangoon Gardens"
+          d="M 180.157 72.6773 L 182.983 72.9815 L 182.994 72.9815 L 186.931 73.9703 L 192.781 75.2135 L 192.839 77.1442 L 194.19 78.6127 L 187.864 84.3111 L 187.762 83.8197 L 186.835 83.0269 L 186.323 82.3014 L 186.027 81.497 L 185.255 81.4678 L 185.255 79.6658 L 184.638 78.4284 L 183.655 78.4284 L 183.562 77.9837 L 180.38 77.8755 L 180.456 79.9173 L 180.868 80.0723 L 180.836 83.5914 L 178.979 84.2292 L 177.437 85.7415 L 175.53 88.2075 L 175.744 90.7525 L 175.595 90.7525 L 173.521 84.4076 L 176.545 75.5586 L 176.487 73.9936 L 178.019 74.137 L 179.008 73.511 L 179.017 73.508 L 179.9 73.1335 Z"
+        />
+        <path
+          id="Cheng San"
+          d="M 179.014 32.1213 L 181.719 36.1553 L 183.495 37.4424 L 184.849 38.6388 L 185.992 40.8825 L 189.637 42.9565 L 190.426 42.468 L 190.435 42.465 L 191.655 41.9853 L 194.986 43.2958 L 197.399 43.7375 L 198.929 44.5858 L 199.701 44.8725 L 199.446 45.9519 L 198.905 46.5575 L 196.092 49.4681 L 194.117 50.2492 L 193.173 54.4469 L 192.714 55.462 L 192 56.5005 L 190.944 56.9978 L 190.151 57.4717 L 190.219 60.3618 L 189.49 60.6573 L 189.321 61.6841 L 187.586 62.3656 L 186.835 65.2646 L 186.899 73.5226 L 183.05 72.5836 L 179.935 72.2501 L 179.619 72.8176 L 178.835 73.1482 L 177.92 73.7274 L 176.071 73.5548 L 176.142 75.4943 L 173.29 83.8401 L 173.044 83.2521 L 171.754 81.8948 L 172.161 81.2395 L 172.728 80.6427 L 172.904 77.4279 L 172.375 77.0505 L 171.766 77.0505 L 171.313 76.9013 L 170.485 76.3572 L 170.476 76.3512 L 170.473 76.3482 L 169.748 75.7866 L 167.809 72.1008 L 167.668 69.8337 L 167.294 69.0087 L 166.273 69.0615 L 166.25 68.5203 L 165.352 68.3448 L 165.653 67.5257 L 165.217 67.4029 L 165.302 66.5926 L 164.799 66.534 L 164.843 65.9928 L 164.498 65.4751 L 164.416 64.732 L 163.977 63.9861 L 163.977 63.3016 L 163.53 63.1114 L 163.024 62.1285 L 163.416 60.9935 L 163.275 59.0248 L 161.559 54.5726 L 160.725 54.28 L 161.327 50.6322 L 161.33 50.6232 L 161.556 49.9036 L 162.79 49.8247 L 165.346 50.4624 L 167.622 49.7515 L 171.634 45.1033 L 171.637 45.1003 L 174.472 42.6781 L 175.291 37.8895 L 175.837 36.8627 Z"
+        />
+        <path
+          id="Siglap"
+          d="M 221.447 105.511 L 221.596 107.728 L 221.795 108.79 L 225.234 108.79 L 226.191 108.342 L 229.288 107.898 L 231.85 107.427 L 233.081 110.726 L 235.813 109.948 L 236.974 112.85 L 237.509 114.014 L 237.188 114.014 L 235.845 114.348 C 232.811 114.814 234.093 114.614 233.347 114.713 C 233.241 114.727 233.141 114.741 233.052 114.752 C 232.953 114.764 232.867 114.774 232.798 114.781 C 232.72 114.788 232.67 114.793 232.646 114.793 C 232.587 114.793 232.498 114.815 232.429 114.839 C 232.364 114.863 232.29 114.893 232.21 114.93 C 232.138 114.963 232.061 115.002 231.979 115.044 C 231.905 115.082 231.827 115.124 231.748 115.167 C 231.605 115.244 231.457 115.326 231.309 115.41 C 230.938 115.622 231.15 115.48 230.171 116.089 L 227.685 116.916 L 225.179 117.531 L 223.137 118.47 L 220.762 118.578 L 214.579 120.275 L 214.623 116.703 L 213.889 115.003 L 217.817 113.602 L 219.291 113.222 L 218.604 109.747 L 217.311 108.954 L 217.229 107.529 L 216.726 106.789 Z"
+        />
+        <path
+          id="Bedok"
+          d="M 223.582 100.933 L 223.909 102.854 L 226.714 102.574 L 226.936 103.334 L 226.872 104.993 L 232.479 103.998 L 236.749 102.266 L 240.452 107.295 L 239.387 108.36 L 237.486 109.015 L 235.874 109.512 L 233.327 110.241 L 232.107 106.979 L 226.076 107.953 L 225.143 108.392 L 222.128 108.392 L 221.993 107.687 L 221.993 107.675 L 221.99 107.663 L 221.812 104.995 L 216.577 106.414 L 216.343 103.924 L 215.515 103.064 L 216.413 102.652 L 216.761 102.108 L 219.683 102.245 L 219.311 101.649 L 221.154 101.47 Z"
+        />
+        <path
+          id="Fengshan"
+          d="M 228.785 99.9438 L 229.68 100.792 L 230.297 103.978 L 227.29 104.513 L 227.34 103.279 L 227.007 102.144 L 224.24 102.421 L 223.971 100.848 L 225.316 100.59 L 225.641 100.046 L 226.644 99.9964 Z"
+        />
+        <path
+          id="Paya Lebar"
+          d="M 215.325 66.8414 L 215.831 67.0959 L 215.968 67.8769 L 215.378 69.2196 L 214.099 72.2239 L 208.311 85.6392 L 203.614 94.4998 L 201.409 93.83 L 200.423 95.0205 L 197.162 93.0196 L 197.039 90.0329 L 195.881 88.4182 L 196.682 85.569 L 193.971 85.4286 L 192.111 86.4847 L 189.713 86.4438 L 187.905 85.8558 L 186.993 85.765 L 187.136 85.5895 L 187.741 85.5545 L 187.92 84.7997 L 194.615 78.7707 L 196.337 77.0653 L 196.665 77.0653 L 197.452 77.9517 L 197.574 79.4231 L 199.888 79.2359 L 206.083 78.7356 L 207.975 78.2179 L 208.993 77.4398 L 211.956 70.3401 L 211.956 70.3371 L 213.383 67.7014 L 213.933 67.2539 Z"
+        />
+        <path
+          id="Hougang"
+          d="M 204.878 68.8803 L 205.846 69.0178 L 205.802 69.556 L 205.173 70.5565 L 203.953 72.1332 L 202.257 75.4914 L 200.935 76.9628 L 199.876 77.8638 L 199.797 78.8759 L 197.937 78.9959 L 197.838 77.7878 L 196.846 76.6703 L 196.171 76.6703 L 194.48 78.3407 L 193.234 76.9833 L 193.178 75.2662 L 193.854 75.3159 L 194.053 74.3945 L 194.638 74.0288 L 195.106 73.4028 L 195.866 72.6452 L 196.492 73.0576 L 197.504 72.7475 L 198.066 72.9113 L 198.332 73.7334 L 199.242 74.0785 L 201.125 72.5691 Z"
+        />
+        <path
+          id="Eunos"
+          d="M 218.34 55.2515 L 220.426 56.4245 L 227.606 59.4463 L 232.277 62.6231 L 236.524 64.8376 L 240.279 66.0896 L 247.626 66.2241 L 248.121 67.362 L 248.124 67.365 L 248.463 68.7399 L 252.054 72.5632 L 244.12 80.3883 L 246.676 85.4841 L 246.641 87.2013 L 246.199 87.1574 L 245.956 86.6718 L 243.731 86.6923 L 243.54 87.0492 L 241.712 87.3768 L 241.745 86.9995 L 241.268 86.8708 L 241.227 86.3501 L 240.742 86.3706 L 240.627 85.9085 L 240.297 85.9085 L 240.297 85.4375 L 240.888 85.2151 L 240.607 83.109 L 238.41 83.1909 L 238.238 82.8603 L 237.358 82.5268 L 231.885 82.9042 L 231.429 83.3196 L 230.748 83.3663 L 230.689 86.0663 L 229.49 86.0839 L 228.735 87.0463 L 228.817 88.152 L 221.505 85.0366 L 220.616 87.1721 L 225.895 90.3226 L 228.37 90.9779 L 228.37 92.4668 L 226.91 94.6169 L 225.237 95.0791 L 226.015 99.6162 L 225.407 99.6601 L 225.065 100.233 L 223.699 100.494 L 221.274 101.032 L 220.818 98.9551 L 218.926 99.0398 L 218.741 98.0628 L 208.671 103.1 L 207.188 103.311 L 207.299 102.383 L 206.583 101.989 L 208.256 100.435 L 207.381 98.5045 L 203.956 94.7046 L 208.677 85.8059 L 216.384 67.9296 L 216.188 66.8267 L 215.357 66.4143 L 213.743 66.8911 L 213.067 67.444 L 211.599 70.1557 L 208.665 77.1851 L 207.794 77.855 L 206.01 78.3406 L 200.198 78.8438 L 200.262 78.0598 L 201.225 77.2407 L 202.591 75.7225 L 204.293 72.3497 L 205.507 70.7759 L 206.194 69.6847 L 206.273 68.6726 L 205.091 68.5029 L 205.776 66.8355 L 206.399 64.2028 L 207.253 63.331 L 209.973 63.6353 L 211.336 63.3515 L 212.675 62.8484 L 213.716 61.0405 L 213.831 59.7417 L 214.907 58.4195 L 214.913 58.4135 Z"
+        />
+        <path
+          id="Punggol"
+          d="M 207.908 39.2239 L 208.393 40.1453 L 209.481 39.2736 L 211.014 39.4813 L 210.92 41.8332 L 211.777 43.0969 L 214.111 47.283 L 215.381 48.4005 L 216.711 50.2288 L 218.788 50.9542 L 219.326 51.8025 L 219.832 53.0048 L 219.794 53.6016 L 218.993 53.9117 L 218.162 54.8741 L 214.611 58.1504 L 213.444 59.5838 L 213.324 60.9177 L 212.4 62.5237 L 211.227 62.9654 L 209.955 63.2316 L 207.1 62.9098 L 206.033 64.0039 L 205.389 66.7244 L 205.389 66.7274 L 204.641 68.5498 L 200.853 72.2766 L 199.171 73.6222 L 198.654 73.4292 L 198.382 72.5838 L 197.507 72.3322 L 196.557 72.6218 L 195.814 72.1333 L 194.793 73.1513 L 194.36 73.7305 L 193.696 74.1429 L 193.535 74.8918 L 193.015 74.8538 L 193.009 74.8508 L 187.3 73.6163 L 187.232 65.3144 L 187.92 62.6641 L 189.678 61.9737 L 189.847 60.944 L 190.622 60.6252 L 190.555 57.697 L 191.122 57.3547 L 191.137 57.3487 L 191.14 57.3457 L 192.269 56.8163 L 193.062 55.6637 L 193.556 54.5667 L 194.463 50.5445 L 196.32 49.8102 L 199.812 46.1449 L 200.102 44.9338 L 203.866 44.6266 L 204.272 43.1611 L 205.094 42.6111 L 207.027 41.1192 L 207.639 39.25 Z"
+        />
+        <path
+          d="M 235.235 46.4119 C 235.241 46.4151 235.246 46.4176 235.25 46.4198 L 235.254 46.4218 C 235.25 46.4217 235.243 46.4206 235.243 46.4206 C 235.243 46.4206 235.193 46.4166 235.164 46.4134 C 235.181 46.4137 235.209 46.4146 235.253 46.4165 L 235.252 46.4158 C 235.233 46.4065 235.208 46.3916 235.175 46.3701 C 235.145 46.3509 235.112 46.3283 235.076 46.302 C 235.044 46.2784 235.011 46.2522 234.976 46.2246 C 234.976 46.2246 234.889 46.1922 234.266 45.6031 L 234.214 45.5543 L 234.142 45.5489 C 232.771 45.454 232.913 45.4888 232.849 45.4877 C 232.789 45.4866 232.731 45.4862 232.676 45.4862 C 232.615 45.4863 232.559 45.4873 232.508 45.4893 C 232.452 45.4917 232.399 45.4957 232.356 45.5017 C 232.356 45.5017 232.167 45.3712 232.048 44.833 L 232.021 44.7115 L 230.622 44.374 L 230.378 42.9569 L 228.359 42.6457 L 226.216 42.066 L 226.375 41.0057 L 225.107 41.1945 L 224.277 41.6101 L 223.692 40.6225 L 222.632 40.4701 L 221.884 39.8989 L 221.427 39.0754 L 220.96 37.9562 L 220.96 37.094 L 221.692 37.1327 L 222.655 36.9717 L 223.812 35.6699 L 225.439 35.5228 L 225.826 34.796 C 226.2 34.7532 226.421 34.745 226.421 34.745 C 226.52 34.7426 226.585 34.7446 226.63 34.7535 C 226.658 34.7592 226.692 34.7647 226.727 34.7697 C 226.727 34.7697 226.684 34.7883 227.585 34.8502 L 232.573 37.224 L 234.11 37.368 L 235.73 38.4043 L 235.831 39.5684 L 237.374 39.8772 C 237.967 40.4658 238.05 40.5165 238.05 40.5165 C 238.084 40.5464 238.117 40.575 238.148 40.6009 C 238.183 40.6295 238.216 40.6559 238.247 40.6783 C 238.28 40.7027 238.316 40.7272 238.35 40.7441 C 238.35 40.7441 238.519 40.9603 239.459 40.3308 L 240.477 40.3733 L 241.245 41.2363 L 244.675 41.7409 L 246.261 40.8981 L 248.588 40.3284 L 251.932 40.3284 L 253.407 41.4871 L 253.965 40.6241 L 255.867 41.4848 L 256.86 41.6419 L 258.12 41.2533 L 258.418 41.2959 L 259.805 41.4561 L 259.872 41.3509 C 260.173 40.877 260.617 40.6465 260.617 40.6465 C 260.913 40.4983 261.124 40.4695 261.188 40.4732 L 261.867 40.9585 L 263.488 40.9585 C 264.66 41.4393 264.538 41.412 264.538 41.412 C 264.581 41.4322 264.619 41.4503 264.652 41.467 C 264.689 41.4856 264.716 41.5005 264.735 41.5119 C 264.873 41.5946 264.978 42.2395 265.027 42.5799 C 265.027 42.5799 265.036 42.7253 265.205 43.4236 L 264.798 43.9646 L 264.789 44.0033 C 264.398 45.5283 264.501 45.1911 264.449 45.439 C 264.434 45.5081 264.421 45.5748 264.408 45.6379 C 264.395 45.708 264.383 45.774 264.373 45.8338 C 264.362 45.8996 264.353 45.9609 264.348 46.011 C 264.343 46.0647 264.34 46.135 264.353 46.1844 C 264.427 46.4809 264.881 46.7448 265.087 46.8477 C 265.087 46.8477 265.144 46.8782 265.126 46.9684 L 265.122 46.9877 L 265.122 47.0079 C 265.122 47.0962 265.19 47.3613 265.547 47.8523 C 265.559 47.8679 265.554 47.8654 265.563 47.8786 L 265.548 47.874 L 264.89 47.874 L 264.066 47.4103 L 262.933 48.0017 C 262.331 47.8076 262.197 47.7385 262.197 47.7385 C 262.163 47.7241 262.132 47.7105 262.105 47.6975 C 262.075 47.683 262.052 47.67 262.034 47.6596 C 261.916 47.5884 261.767 47.6081 261.649 47.6363 C 261.219 47.7391 260.466 48.165 260.381 48.165 C 260.229 48.165 259.513 47.9289 259.258 47.8778 C 259.258 47.8778 259 47.8167 258.402 48.1394 L 257.196 47.463 L 254.971 48.4243 L 253.164 49.2749 L 253.417 50.0868 L 251.603 51.548 L 250.262 51.4041 L 248.702 52.3313 L 246.751 52.3313 L 242.385 53.2229 C 241.971 52.3115 241.944 52.2206 241.944 52.2206 C 241.926 52.1781 241.912 52.1404 241.901 52.1099 C 241.888 52.0749 241.882 52.0575 241.879 52.0457 C 241.867 51.9947 241.821 51.9257 241.791 51.8901 C 241.761 51.8547 241.725 51.8175 241.685 51.7802 C 241.649 51.7465 241.609 51.7112 241.566 51.675 C 241.527 51.6423 241.487 51.6084 241.444 51.5743 C 241.444 51.5743 241.353 51.4716 240.575 50.9397 L 239.522 49.2338 L 237.869 49.1835 L 236.235 48.1673 L 236.49 46.4823 L 236.271 46.4692 C 235.66 46.433 235.366 46.4173 235.235 46.4118 Z M 251.001 110.608 C 250.984 110.604 250.801 110.622 253.101 110.342 L 253.105 110.342 L 254.672 110.221 L 255.151 110.922 L 255.165 110.778 L 256.128 110.477 C 256.742 109.609 257.268 109.675 257.268 109.675 C 257.308 109.68 257.359 109.684 257.423 109.689 C 257.479 109.693 257.544 109.696 257.614 109.699 C 257.677 109.702 257.743 109.705 257.814 109.707 C 258.112 109.717 258.003 109.726 259.17 109.727 L 274.125 74.5493 L 273.962 70.9255 C 273.571 70.4314 273.397 70.0842 273.397 70.0842 C 273.342 69.9774 273.292 69.8626 273.264 69.7607 C 273.248 69.7025 273.237 69.6378 273.237 69.5772 C 273.237 69.5697 273.225 69.5085 273.193 69.3953 C 273.164 69.2947 273.123 69.1674 273.073 69.0161 C 273.028 68.8801 272.975 68.7267 272.917 68.561 C 272.864 68.4119 272.807 68.2529 272.746 68.0873 C 272.638 67.7893 272.52 67.4704 272.4 67.1508 C 271.955 65.9675 272.407 67.114 271.414 64.5851 L 271.402 64.5541 L 271.347 63.0712 L 269.918 60.8491 L 267.037 60.1966 L 264.484 59.2887 L 262.671 57.6402 C 262.619 57.637 262.6 57.6354 262.499 57.6325 C 262.392 57.6293 262.262 57.6275 262.129 57.6309 C 261.957 57.6355 261.82 57.654 261.708 57.6804 C 261.72 57.6935 261.728 57.7022 261.742 57.7168 C 261.787 57.7612 261.839 57.8103 261.896 57.8631 C 261.948 57.9105 262.003 57.9607 262.061 58.0124 C 262.113 58.059 262.168 58.1065 262.224 58.1548 C 262.493 58.3887 262.218 58.185 263.322 59.0681 L 263.326 59.0713 L 264.22 59.8538 L 264.001 60.1843 L 262.488 59.456 L 261.174 58.6348 L 260.381 58.4761 L 259.687 58.36 L 258.844 57.963 L 257.956 58.8515 L 256.492 58.2076 L 255.128 58.4096 L 254.828 58.8082 L 254.231 59.2865 L 252.868 59.8925 L 253.288 61.2454 L 254.649 61.7895 L 255.608 63.2647 L 254.32 63.2647 L 254.073 62.5728 L 253.456 62.9041 L 252.603 62.4164 L 251.781 62.1742 L 248.989 64.5604 L 249.503 64.9597 L 247.995 66.1006 L 248.818 68.5363 L 252.616 72.5757 L 244.605 80.4695 L 247.076 85.3935 L 247.032 87.645 L 245.94 87.5328 L 245.711 87.0746 L 243.971 87.0916 L 243.804 87.4066 L 241.581 87.8068 L 235.21 93.1449 L 238.691 97.3004 L 233.929 99.798 L 232.665 100.889 L 230.107 100.889 L 230.692 103.909 L 232.369 103.613 L 236.89 101.781 L 240.979 107.333 L 239.599 108.712 L 236.198 109.829 L 237.944 113.988 L 240.519 113.514 L 240.525 113.514 C 241.558 113.388 241.684 113.332 241.755 113.318 C 241.821 113.305 241.886 113.291 241.95 113.277 C 242.021 113.261 242.09 113.245 242.156 113.229 C 242.229 113.21 242.297 113.192 242.36 113.172 C 242.43 113.151 242.49 113.129 242.542 113.108 C 242.6 113.084 242.635 113.066 242.659 113.049 C 243.037 112.779 243.453 112.288 243.776 112.288 C 243.942 112.288 245.212 111.798 245.453 111.737 C 245.706 111.674 247.931 111.563 248.123 111.515 C 248.346 111.46 250.349 110.736 250.572 110.68 C 250.602 110.673 250.653 110.663 250.713 110.654 C 250.767 110.645 250.836 110.635 250.912 110.624 C 250.963 110.617 250.986 110.613 250.996 110.611 C 250.993 110.611 250.992 110.61 251.001 110.608 Z M 309.375 31.6539 L 310.732 31.7057 L 318.633 35.0222 L 325.813 40.269 L 328.183 44.6799 L 328.781 45.82 L 328.995 47.0669 L 328.397 46.8525 L 327.556 48.0181 L 327.383 49.4523 L 325.449 57.0241 L 324.676 58.1061 L 322.352 58.7934 L 320.225 58.1216 L 318.097 59.0411 L 309.37 62.4543 L 307.734 64.6184 L 307.784 65.4241 L 305.129 66.2259 L 303.769 64.1578 L 302.594 64.0162 L 303.115 63.1664 L 300.295 59.312 L 298.803 57.9784 L 299.054 56.2764 L 297.731 56.6533 L 296.937 55.4127 L 296.264 53.0033 L 294.711 51.2889 L 295.429 49.8532 L 295.123 49.6086 L 293.338 51.0776 L 290.975 49.6906 L 290.564 47.7379 L 291.138 46.7457 L 291.817 45.6714 L 292.055 44.8417 L 292.168 42.4903 L 290.935 39.6862 L 290.557 37.194 C 290.669 36.5672 290.778 36.2861 290.778 36.2861 C 290.811 36.1852 290.846 36.0965 290.882 36.0261 C 290.901 35.987 290.918 35.9584 290.934 35.9363 C 290.946 35.9202 290.957 35.9092 290.957 35.9092 C 290.957 35.9092 290.977 35.908 291.022 35.9193 C 291.022 35.9193 291.318 35.9929 291.781 36.3898 L 291.836 36.437 L 296.363 36.4943 L 298.888 34.91 L 299.058 33.4882 L 299.776 32.7181 L 300.626 32.1515 L 301.68 33.1531 L 304.644 33.2088 L 306.023 34.1855 L 307.695 33.4417 L 308.31 32.2111 Z M 283.913 37.1971 L 284.493 37.7381 C 285.023 38.778 285.326 38.6816 285.326 38.6816 C 285.326 38.6816 285.341 38.6848 285.372 38.694 C 285.405 38.7037 285.447 38.7183 285.496 38.7373 C 285.539 38.7543 285.587 38.7743 285.639 38.7969 C 285.686 38.8171 285.736 38.8393 285.787 38.8627 C 285.787 38.8627 285.808 38.838 286.832 39.3867 L 288.169 40.0786 L 289.145 42.6807 L 289.102 43.6466 L 287.879 44.3897 L 284.463 44.6667 L 283.959 43.8409 L 282.317 43.2318 L 282.094 40.7287 L 283.487 39.0933 L 283.583 37.4672 Z M 213.722 41.4532 L 214.853 42.4973 L 216.966 44.9547 L 217.8 45.2008 L 222.319 49.3834 L 223.754 50.8183 L 223.725 51.5257 C 223.381 51.2301 223.068 50.9587 222.994 50.8919 C 222.95 50.8515 222.909 50.8136 222.872 50.7789 C 222.831 50.7402 222.796 50.7065 222.768 50.6782 C 222.736 50.6457 222.721 50.6294 222.712 50.6179 C 222.689 50.5865 222.647 50.5441 222.603 50.5025 C 222.563 50.4645 222.513 50.4184 222.456 50.3687 C 222.405 50.3237 222.348 50.2746 222.287 50.2224 C 222.004 49.9807 222.586 50.4314 220.836 49.032 L 220.732 48.9484 L 219.698 49.518 L 219.046 49.4825 L 218.862 48.1922 L 216.859 47.0197 L 216.132 44.6954 L 213.357 43.0391 L 213.21 42.745 L 213.21 41.8286 Z M 234.636 48.4639 L 234.977 48.8617 L 235.393 49.734 L 234.679 49.0196 C 234.673 49.0091 234.56 48.7968 234.636 48.4639 Z M 235.806 50.1465 L 237.775 51.0652 L 238.919 51.5691 L 239.628 53.1062 L 238.624 53.1062 L 237.641 52.0273 L 236.648 51.5552 L 236.036 50.3764 Z"
+          id="Changi"
+        />
+        <path
+          id="Tampines"
+          d="M 237.296 82.9304 L 237.951 83.179 L 238.17 83.6003 L 240.256 83.5213 L 240.449 84.9518 L 239.899 85.1624 L 239.899 86.3062 L 240.317 86.3062 L 240.434 86.7859 L 240.858 86.7654 L 240.893 87.1867 L 241.317 87.3008 L 241.3 87.5202 L 234.649 93.0928 L 238.065 97.1736 L 233.701 99.4641 L 232.514 100.491 L 229.946 100.491 L 228.943 99.5401 L 226.416 99.5987 L 225.693 95.3687 L 227.159 94.9621 L 228.767 92.5927 L 228.767 90.6678 L 226.053 89.9511 L 221.119 87.0054 L 221.718 85.5632 L 229.261 88.7781 L 229.145 87.1721 L 229.689 86.4788 L 231.081 86.4583 L 231.139 83.7407 L 231.598 83.7085 L 232.052 83.2931 Z"
+        />
+        <path
+          id="Nee Soon Central"
+          d="M 151.521 31.7059 L 155.712 31.9984 L 157.724 32.1476 L 158.657 33.9408 L 158.11 35.5117 L 159.28 38.083 L 158.236 39.6129 L 157.525 39.4696 L 155.358 40.1687 L 153.899 39.3087 L 154.662 38.3346 L 154.756 36.401 L 151.72 36.4829 L 149.827 34.4469 L 150.181 33.8004 L 152.328 33.5401 L 151.743 32.367 L 151.74 32.358 Z"
+        />
+      </g>
+</svg>

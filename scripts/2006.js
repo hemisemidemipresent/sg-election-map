@@ -1,5 +1,4 @@
 const year = 2006;
-const needStroke = true;
 const strokeWidth = 0.25;
 const results = [
   {

@@ -1,5 +1,4 @@
-const year = 2020
-const needStroke = false;
+const year = 2015
 
 const results = [
   {

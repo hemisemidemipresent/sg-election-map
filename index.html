@@ -8,8 +8,11 @@
 
 
     <link rel="stylesheet" href="styles/main.css">
-    <!-- <link rel="preconnect" href="https://fonts.gstatic.com"> -->
-    <!-- <link href="https://fonts.googleapis.com/css2?family=Luckiest+Guy&display=swap" rel="stylesheet"> -->
+    
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap" rel="stylesheet">
+
     <script>
         function resizeIframe(obj) {
           let scrollHeight = obj.contentWindow.document.documentElement.scrollHeight;
@@ -17,22 +20,63 @@
           console.log(maxHeight)
           obj.style.height = Math.min(scrollHeight, maxHeight) + 'px';
         }
+        
+        let GE_years = [1988, 1991, 1997, 2001, 2006, 2011, 2015, 2020]
+        let years = [1988, 1991, 1997, 2001, 2006, 2011, 2015, 2020]
+        // let years = [1988, 1991, 1992, 1997, 2001, 2006, 2011, 2012, 2013, 2015, 2016, 2020]
+        
+        function changeMap(index) {
+            let iframe = document.getElementById('the_map');
+            let year = years[index]
+            let nearest_GE_year = GE_years[0]
+            for (let i = 0;i < GE_years.length;i++){
+                if (GE_years[i] > year) break;
+                if (year - GE_years[i] < year - nearest_GE_year) nearest_GE_year = GE_years[i]
+            }
+            iframe.src=`maps/${nearest_GE_year}.html`;
+            resizeIframe(iframe)
+        }
       </script>
 </head>
 
 <body>
 
+    <h1>Singapore Election Map</h1>
+
     <iframe src="maps/2020.html" id="the_map" frameborder="0" scrolling="no" onload="resizeIframe(this)"></iframe>
     
     <br>
-    <button onclick="let iframe = document.getElementById('iframe');iframe.src='maps/2006.html';resizeIframe(iframe)">2006</button>
-    <button onclick="let iframe = document.getElementById('iframe');iframe.src='maps/2011.html';resizeIframe(iframe)">2011</button>
-    <button onclick="let iframe = document.getElementById('iframe');iframe.src='maps/2015.html';resizeIframe(iframe)">2015</button>
-    <button onclick="let iframe = document.getElementById('iframe');iframe.src='maps/2020.html';resizeIframe(iframe)">2020</button>
+
+    
+    <span id ='sliderContainer'>
+        <input type="range" min="0" max="7" value="11" class="slider" id="dateSlider" oninput="changeMap(this.value)" onmousedown="this.style.opacity = '1'" onmouseup="this.style.opacity = null" style="margin-bottom: 0rem">
+        <datalist id="values">
+            <option value="1988" label="1988"></option>
+            <option value="1991" label="1991"></option>
+
+            <!-- <option value="1992" label="1992" class="by-election"></option> -->
+
+            <option value="1997" label="1997"></option>
+            <option value="2001" label="2001"></option>
+            <option value="2006" label="2006"></option>
+            <option value="2011" label="2011"></option>
+
+            <!-- <option value="2012" label="2012" class="by-election"></option> -->
+            <!-- <option value="2013" label="2013" class="by-election"></option> -->
+
+            <option value="2015" label="2015"></option>
+            
+            <!-- <option value="2015" label="2016" class="by-election"></option> -->
+
+            <option value="2020" label="2020"></option>
+          </datalist>
+    </span>
+<br>
 
     <div id='infobox'>
         <p>Source code on <a href="https://github.com/hemisemidemipresent/sg-election-map">Github</a></p><br>
         <p class="mobile-only">NOTE: This looks better on desktop</p>
+        <p>maps are adapted from wikipedia by respective authors</p>
     </div>
 </body>
 

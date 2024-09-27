@@ -22,11 +22,8 @@ for (let i = 0; i < results.length; i++) {
     color = colors[winner][margin];
   }
 
+  console.log(name)
   element.style.fill = color;
-  if (!!needStroke) {
-    // element.style.stroke = color;
-    // element.style.strokeWidth = strokeWidth;
-  }
 
   element.onmouseenter = function () {
     mouseEnter(result);
@@ -46,7 +43,6 @@ document
   .addEventListener("mousemove", onMouseMove);
 
 function mouseEnter(result) {
-  console.log(result)
   box.style.display = "block";
 
   const constituent = document.getElementById("constituent");
@@ -59,13 +55,17 @@ function mouseEnter(result) {
   const sortedVotes = result.votes.sort((a, b) => {
     a.percent - b.percent;
   });
+
+  
   const winner = sortedVotes[0].name;
+
   if (sortedVotes.length > 1) {
     const diff = sortedVotes[0].percent - sortedVotes[1].percent;
     data.innerText = `${winner} +${Math.abs(diff).toFixed(1)}`;
   } else data.innerText = `${winner} walkover`;
 
   data.style.color = colors[winner][1];
+
 
   if (result.seats == 1) {
     seats.innerText = result.seats + " seat";
@@ -78,18 +78,20 @@ function mouseEnter(result) {
     let info = sortedVotes[i];
     let party = info.name;
 
-    // font shenanigans
-    if(party.startsWith('W') || party.startsWith('M')) info.name = '&VeryThinSpace;' + info.name
+    console.log(party, colors[party])
 
     html += `<div class='voteshare' style="background-color:${colors[party][0]}">
                 <div class="votesharebar" style="background-color:${colors[party][1]}; min-width:${info.percent / 10}rem"></div>
-                <p class="votesharename ${party.length > 8 ? 'smaller-party-name' : ''}">${info.name}</p>
-                <p class="votesharepercent">${info.percent}%</p>
+                <p class="votesharename ${party.length > 8 ? 'smaller-party-name' : ''}">
+                    ${party.startsWith('W') || party.startsWith('M') ? '\u200a': ''}${info.name}
+                </p>
+                <p class="votesharepercent">${info.percent.toFixed(2)}%</p>
             </div>`;
   }
 
   votesharebox.innerHTML = html;
 }
+
 function mouseLeave() {
   box.style.display = "none";
 }
